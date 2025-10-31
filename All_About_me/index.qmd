@@ -25,7 +25,7 @@ Keputusan untuk melanjutkan pendidikan di **Institut Teknologi Bandung** saya am
 Memasuki dunia Informatika membuat saya sadar bahwa bidang ini begitu luas dan tidak mungkin dikuasai seluruhnya.  
 Pada awal kuliah, saya mendengar bahwa jalur *full-stack developer* sudah sangat umum sehingga saya mulai mempertimbangkan bidang yang lebih spesifik dan jarang dikuasai, tetapi sangat dibutuhkan industri.
 
-Dari riset dan pengamatan pasar kerja, saya menemukan bahwa **Cyber Security** adalah salah satu bidang dengan permintaan yang sangat tinggi namun minim tenaga ahli—khususnya di Indonesia.  
+Dari riset dan pengamatan pasar kerja, saya menemukan bahwa **Cyber Security** adalah salah satu bidang dengan permintaan yang sangat tinggi namun minim tenaga ahli khususnya di Indonesia.  
 Dengan motivasi tersebut, saya mulai belajar Cyber Security melalui:
 
 - Kompetisi **Capture The Flag (CTF)**  
@@ -141,7 +141,7 @@ Di luar akademik dan teknologi, saya memiliki hobi:
 - Mempelajari finance  
 
 Fun fact tentang saya:  
-> Saya suka menganalisis hal-hal random di luar pemahaman saya, namun sering kali tidak saya dalami seluruhnya—sekadar mengikuti rasa penasaran.
+> Saya suka menganalisis hal-hal random di luar pemahaman saya, namun sering kali tidak saya dalami seluruhnya sekadar mengikuti rasa penasaran.
 
 ---
 

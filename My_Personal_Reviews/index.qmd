@@ -103,6 +103,13 @@ Lengkapi dengan *tracking progress* berbasis indikator (misalnya jumlah latihan,
 
 ---
 
+## **Peer Review**
+
+Berikut adalah hasil *peer review* dari rekan mahasiswa berdasarkan rubrik penilaian UTS-1 hingga UTS-4.
+
+**Tabel Peer Review**: [Excel Peer Review](https://docs.google.com/spreadsheets/d/1oCqNkQcIuL8yDyeVibUw7beEpZquR9fNUL5Ej1pUW2A/edit?usp=sharing)
+
+
 # SKOR AKHIR
 
 ### Rekapitulasi Nilai UTS
