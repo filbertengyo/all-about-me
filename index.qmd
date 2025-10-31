@@ -1,6 +1,6 @@
 # Selamat Berjumpa {.unnumbered}
 
-![About Me](images/FilbertEngyo.jpg){width=950%}
+![About Me](images/FilbertEngyo.JPG){width=950%}
 
 Filbert Engyo adalah seorang mahasiswa tahun ke-3 dari jurusan Teknik Inforrmatika ITB yang sedang terus menerus mengasah dirinya ditengah gempuran teknologi yang pesat dan mencoba melakukan yang terbaik demi dirinya sendiri.
 
