@@ -1,215 +1,193 @@
-# UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)
+# UTS-4 — My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)
 
-> **Tujuan:** Merangkum rancangan diri (charter) agar saya melayani, berkarya, dan memimpin secara paling selaras dengan karunia dan pengalaman hidup saya. Dapat langsung ditempel ke halaman **UTS-4 — My SHAPE** dan dipakai sebagai acuan aksi 90 hari.
+> **Tujuan:** Merangkum rancangan diri agar saya dapat melayani, berkarya, dan memimpin dengan selaras dengan kekuatan alami, minat terdalam, gaya kerja, dan pengalaman pembentuk saya.
 
-Sumber [VIA assessment](StrengthsProfile-Armein-Langi.pdf)
 ---
 
 ## 0) Ringkasan 1 Halaman
 
-**Peran Inti:** Profesor & Elder — perancang ekosistem belajar-bernilai, pembimbing, dan pemimpin pelayanan komunitas.
-**Misi:** Mengangkat kualitas hidup melalui *smart engineering* dan *value-oriented education*, khususnya bagi lansia/keluarga/komunitas (GRACE), serta pelayanan gerejawi yang menumbuhkan kasih dan pengharapan.
-**Kekuatan Utama:** mengkonsep sistem utuh, menulis & mengajar, membangun jejaring, merancang rubrik/alat evaluasi, menggerakkan proyek lintas-disiplin.
-**Dampak yang Dituju:** karya, kurikulum, dan pelayanan yang menumbuhkan karakter, keterampilan, serta kesejahteraan berkeadilan.
+**Peran Inti:** Security Learner & Team Integrator — analis yang teliti, komunikator tim, dan pembangun struktur kerja yang jelas.
+
+**Misi:** Mengembangkan diri sebagai security engineer yang kompeten, etis, dan berfokus pada perlindungan pengguna; sekaligus menjadi penghubung komunikasi yang menyelaraskan anggota tim agar dapat bekerja efektif dan belajar bersama.
+
+**Kekuatan Utama:** observasi detail, pemahaman melalui eksplorasi, komunikasi strategis, perencanaan, analisis, penyederhanaan konsep, scripting Python, dan network security.
+
+**Dampak yang Dituju:** tim yang terkoordinasi, solusi keamanan yang praktis, serta peningkatan literasi bagi orang-orang yang ingin tahu namun kurang tahu.
 
 **Peta SHAPE (singkat):**
 
-* **S — Spiritual Gifts:** Teaching, Shepherding/Pastoring, Leadership, Wisdom/Discernment, Exhortation/Encouragement, Administration.
-* **H — Heart (Minat & Cinta Pelayanan):** pendidikan berorientasi nilai; kesejahteraan lansia & keluarga (GRACE); pembinaan iman; menulis kisah/novel/lirik; rekayasa cerdas & AI untuk kebaikan bersama; mentorship mahasiswa-dosen; penguatan jemaat.
-* **A — Abilities (Kemampuan):** perancangan sistem (PSKVE/TISE), kurikulum & rubrik, riset & publikasi, menulis multi-format (Quarto/LaTeX), pemrograman (Python/R/Prolog/Modelica), komunikasi publik, memimpin kolaborasi.
-* **P — Personality (Gaya Kepribadian Kerja):** strategis & reflektif, berorientasi visi & nilai, analitis-sistemik, kolaboratif, tenang dalam krisis, suka membangun standar & alat.
-* **E — Experiences (Pengalaman Kunci):** dosen & peneliti lintas proyek (GRACE, Smart Engineering, pendidikan), Elder & pengorganisasi jemaat, penulis kreatif, arsitek sistem pengetahuan (Obsidian/GitHub/Quarto), penggerak sarasehan & penggalangan dukungan.
+- **S — Spiritual Gifts:** Teaching/Explaining, Analysis, Leadership-in-training, Decision-making, Detail Observation.
+- **H — Heart:** pendidikan & literasi, keamanan data, literasi finansial, membantu orang yang ingin belajar.
+- **A — Abilities:** Python scripting, accounting, network security analysis, analitis, komunikasi strategis, penyederhanaan, perencanaan.
+- **P — Personality:** eksplorer-praktisi, komunikatif, reflektif sebelum bertindak, terstruktur, kolaboratif, bertanggung jawab.
+- **E — Experiences:** kegagalan CTF sebagai turning point, koordinasi tim dalam akademik, tugas besar yang berhasil dikejar, pengalaman membantu teman memahami materi.
 
 ---
 
-## 1) S — Spiritual Gifts (Karunia Rohani)
+## 1) S — Spiritual Gifts (Karunia / Kekuatan Inti)
 
-* **Teaching & Wisdom/Discernment:** mengubah konsep kompleks menjadi peta belajar, rubrik, dan alat evaluasi yang memampukan.
-* **Shepherding/Pastoring & Exhortation:** membimbing individu/kelompok dengan empati, meneguhkan, dan memberi arah.
-* **Leadership & Administration:** merancang ekosistem (orang–proses–alat) dengan target berdampak dan terukur.
+Saya memiliki kecenderungan alami untuk:
 
-**Indikator Bukti:** silabus & rubrik (II-2100/EL2007), naskah pengajaran, bimbingan riset, modul/website kelas, program jemaat.
+- **Mengajar & menjelaskan** hal rumit menjadi sederhana.  
+- **Menganalisis** dan menemukan inti masalah.
+- **Memimpin rencana** serta mengarahkan alur kerja tim.
+- **Mengambil keputusan** dalam situasi tidak pasti.
+- **Mengobservasi detail kecil** yang sering terlewat orang lain.
+- **Eksplorasi mandiri** terhadap sistem atau konsep baru.
+
+**Indikator Bukti:**
+- Teman sering meminta bantuan penjelasan materi.
+- Saya menjadi penghubung komunikasi dalam tim.
+- Berhasil menyelesaikan tugas kompleks meski mepet deadline.
+- Konsisten menemukan pola dalam CTF setelah berlatih.
 
 ---
 
 ## 2) H — Heart (Minat, Nilai, Kepedulian)
 
-* Pendidikan yang **mencipta nilai** (CPMK↔rubrik↔artefak nyata).
-* **GRACE**: kualitas hidup lansia/keluarga melalui sistem dukung cerdas & komunitas saling-melayani.
-* **Gereja & Komunitas**: penguatan iman, kesalingan, dan pelayanan kasih.
-* **Kreativitas naratif**: kisah/novel/lirik sebagai sarana edukasi & pengharapan.
-* **Rekayasa cerdas & AI** untuk kemaslahatan.
+**Hal-hal yang saya pedulikan:**
+- **Pendidikan dan adult learning** — terutama bagi orang yang ingin belajar tetapi tidak tahu harus mulai dari mana.
+- **Keamanan data dan perlindungan pengguna**, terutama terhadap produk teknologi tidak etis atau merugikan.
+- **Literasi finansial**, karena berdampak besar pada kualitas hidup.
 
-**Masalah yang ingin dipecahkan:** kesenjangan antara pengetahuan–karakter–aksi; pembelajaran kurang bermakna; layanan komunitas belum terukur dampaknya.
+**Kelompok yang ingin saya layani:**
+- Orang yang “ingin tahu tetapi kurang tahu,” terutama pelajar/teman sebaya yang membutuhkan bimbingan awal.
+
+**Aktivitas yang membuat waktu terasa cepat:**
+- Belajar & eksplorasi mandiri.
+- Mengerjakan soal CTF.
+- Diskusi strategi dalam tim.
+- Membimbing teman memahami materi.
+
+**Ketidakadilan yang memicu saya bertindak:**
+- Produk teknologi yang merugikan pengguna.
+- Layanan sosial/komunitas yang tidak terukur dampaknya.
+- Kesenjangan pengetahuan karena kurangnya akses atau bimbingan.
 
 ---
 
 ## 3) A — Abilities (Kemampuan Andal)
 
-* **Perancangan sistem** (PSKVE/TISE), *value co‑creation*, finansial rekayasa, desain instrumen penilaian.
-* **Kurikulum & pedagogi**: CPMK↔rubrik↔tugas↔bukti; otomasi alur kerja (Python/Quarto/GitHub).
-* **Riset & penulisan ilmiah**; **karya kreatif** (prosa, lirik, ceramah/khotbah).
-* **Teknis**: Python, R, Prolog (ontologi), Modelica, Quarto/LaTeX, Obsidian, GitHub, Graphviz.
-* **Komunikasi & kepemimpinan**: orasi publik, fasilitasi sarasehan, negosiasi kolaborasi.
+### **Kemampuan Teknis Kuat**
+- **Scripting Python**  
+- **Accounting / pemikiran finansial**  
+- **Network security analysis**
+
+### **Kemampuan Non-Teknis Kuat**
+- **Berpikir analitis**  
+- **Komunikasi strategis**  
+- **Menyederhanakan konsep sulit**  
+- **Memimpin diskusi & mengarahkan struktur kerja**
+
+### **Kemampuan yang Sedang Dikembangkan**
+- Leadership  
+- Pentesting web  
+- Secure system design  
+- Cloud security  
 
 ---
 
 ## 4) P — Personality (Gaya Kerja & Kolaborasi)
 
-* **Strategis‑sistemik** (melihat gambaran besar, memetakan bagian-bagian).
-* **Reflektif & nilai‑driven** (standar etis & mutu).
-* **Kolaboratif** (membangun jejaring, memberi ruang tumbuh).
-* **Tenang‑tangguh** (fokus hasil jangka panjang).
-* **Pembelajar & pembuat alat** (suka membuat template, rubrik, pipeline).
+**Gaya Belajar:**  
+Eksplorer-praktisi — memahami cepat melalui praktik & eksperimen, didukung diskusi untuk membangun perspektif.
+
+**Gaya Kerja Dalam Tim:**  
+- Penghubung komunikatif antar anggota.  
+- Pembuat rencana & struktur kerja.  
+Saya memastikan tidak ada miskomunikasi dan semua orang tahu apa yang harus dilakukan.
+
+**Respons terhadap Tekanan:**  
+Refleksi dulu untuk meredakan emosi → menganalisis → mencari solusi tepat.
+
+**Nilai Inti:**  
+Keingintahuan • Disiplin • Kerja sama • Tanggung jawab • Kualitas
 
 ---
 
 ## 5) E — Experiences (Pengalaman Pembentuk)
 
-* **Akademik & Riset:** merancang mata kuliah, SLR AI & transformasi digital, proyek GRACE & Smart Engineering.
-* **Pelayanan & Organisasi:** Elder GKI, fasilitator sarasehan, penggalangan dukungan jemaat, pembinaan rohani.
-* **Kreasi Konten:** penulisan novel/khotbah/lirik; produksi materi ajar multi‑format.
-* **Infrastruktur Pengetahuan:** Obsidian–GitHub–Quarto, rubrik otomatis, bank soal.
+### **Turning Point**
+Kegagalan di CTF pertama menjadi titik balik yang memotivasi saya belajar lebih dalam, mencari pola, dan berlatih soal-soal online.
 
-**Pelajaran Inti:** integrasi iman–ilmu–nilai; sistem yang baik melipatgandakan orang baik; narasi menggerakkan aksi.
+### **Tantangan Besar**
+Menghadapi anggota tim yang tidak paham atau hilang.  
+Saya mengatasinya dengan belajar lebih awal, mengarahkan yang kurang paham, dan berkomunikasi lebih tegas untuk memastikan semua kembali on track.
+
+### **Pengalaman Positif**
+Menyelesaikan tugas besar yang saya kira mustahil, tepat di detik-detik terakhir — memberi saya keyakinan bahwa saya mampu menghadapi tekanan.
+
+### **Pengalaman Dampak**
+Saya rutin membantu teman memahami materi.  
+Saya juga menghidupkan koordinasi tim dengan komunikasi aktif sehingga tidak ada anggota yang merasa tertinggal. Ini menjadi bentuk pelayanan kecil tapi konsisten.
 
 ---
 
-## 6) Piagam Diri (Self‑Charter)
+## 6) Piagam Diri (Self-Charter)
 
-**Misi Hidup:** merancang dan menggerakkan ekosistem pembelajaran & pelayanan yang memerdekakan, bermakna, dan berkeadilan.
-**Nilai Inti:** kasih, integritas, kebijaksanaan, keberanian, mutu, keberpihakan pada yang lemah.
-**Peran Inti:** Perancang sistem nilai‑pembelajaran; Pembimbing & pengajar; Pemimpin pelayanan komunitas.
-**Kompas Keputusan:** (1) Dampak pada manusia; (2) Keselarasan nilai; (3) Keberlanjutan; (4) Kemampuan tim mengelola; (5) Bukti terukur.
-**Janji Pelayanan:** hadir dengan empati, mendengar, memberi arah praktis, membangun alat agar orang lain bertumbuh.
-**Batasan:** menolak proyek yang mengabaikan martabat manusia/etika; menjaga ritme kerja‑istirahat‑keluarga.
+**Misi Hidup:**  
+Menjadi security engineer yang etis, teliti, dan bertanggung jawab, yang membantu orang lain belajar dan memahami teknologi dengan aman.
+
+**Nilai Inti:**  
+Keingintahuan • Disiplin • Kualitas • Tanggung jawab • Kerja sama
+
+**Peran Inti:**  
+Analis detail • Penghubung komunikasi tim • Pencipta struktur kerja • Pembelajar sepanjang hayat
+
+**Kompas Keputusan:**  
+1. Apakah aman dan tidak merugikan pengguna?  
+2. Apakah sejalan dengan nilai integritas & tanggung jawab?  
+3. Apakah saya (atau tim) dapat mempertanggungjawabkan hasilnya?  
+4. Apakah membantu orang lain belajar atau memahami?  
+
+**Janji Pelayanan:**  
+Hadir sebagai rekan yang komunikatif, membantu memahami materi, menjaga koordinasi, dan bekerja dengan kualitas terbaik.
+
+**Batasan:**  
+Menolak praktik atau proyek yang merugikan pengguna, tidak etis, atau menyalahgunakan data.
 
 ---
 
 ## 7) Narasi 90 Detik (Elevator Pitch)
 
-“Saya seorang profesor dan elder yang merancang ekosistem belajar dan pelayanan berbasis nilai. Karunia saya mengajar, membimbing, dan memimpin dengan pendekatan sistem: mengubah konsep besar menjadi peta, rubrik, dan alat yang membuat orang bertumbuh. Hati saya pada pendidikan bermakna, kesejahteraan lansia dan keluarga, serta penguatan jemaat. Dengan pengalaman lintas riset, kurikulum, dan pelayanan, saya menghubungkan ilmu, iman, dan aksi. Target saya sederhana: menghadirkan karya dan komunitas yang saling menguatkan—di kelas, di gereja, dan di masyarakat—agar lebih banyak orang hidup berkualitas, berpengharapan, dan siap melayani.”
+“Saya Filbert, mahasiswa TI yang menekuni Cyber Security dengan fokus pada observasi detail, analisis, scripting Python, dan network security. Turning point saya adalah kegagalan CTF pertama, yang membuat saya belajar lebih dalam dan memahami pola keamanan.  
+
+Dalam tim, saya berperan sebagai penghubung komunikasi dan pembuat rencana — memastikan koordinasi berjalan lancar dan setiap orang merasa aman untuk belajar bersama. Saya peduli pada pendidikan, keamanan data, dan literasi finansial, terutama bagi mereka yang ingin belajar namun kurang mendapatkan bimbingan.
+
+Misi saya adalah menjadi security engineer yang etis dan bertanggung jawab, sekaligus seseorang yang membantu orang lain memahami teknologi dengan aman dan jelas.”
 
 ---
 
-## 8) Service‑Fit Map (Tempat Saya Paling Berdampak)
+## 8) Service-Fit Map (Tempat Saya Paling Berdampak)
 
-* **Kampus:** perancangan kurikulum & rubrik; mentorship riset; otomasi pipeline belajar; kuliah & orasi.
-* **Jemaat:** pembinaan rohani & khotbah; fasilitasi sarasehan; program lansia/keluarga (GRACE).
-* **Riset‑Inovasi:** desain platform nilai‑ciptakan (PSKVE); publikasi; konsorsium kolaborasi.
-* **Kreasi Naratif:** kisah/lirik sebagai media edukasi & penguatan batin.
-
----
-
-## 9) Evidences (Artefak & Tautan)
-
-> Ganti tanda [ ] dengan tautan/berkas Anda.
-
-* [ ] Silabus & rubrik II‑2100 / EL2007
-* [ ] Modul/website kelas & bank soal
-* [ ] Khotbah/renungan & materi sarasehan
-* [ ] Publikasi/SLR & proposal riset (GRACE, dsb.)
-* [ ] Novel/lirik & materi kreatif
-* [ ] Pipeline otomasi (Quarto/GitHub/Obsidian)
+- **Tim Proyek:** koordinasi, komunikasi, perencanaan alur kerja.  
+- **Belajar Bersama:** membantu teman memahami materi sulit.  
+- **Keamanan Siber:** analisis jaringan, debugging, eksplorasi kerentanan dasar.  
+- **Komunitas Pembelajaran:** membuat penjelasan sederhana & struktur belajar.  
 
 ---
 
-## 10) Rencana Aksi 90 Hari (SMART)
+## 9) Rencana Aksi 90 Hari (SMART)
 
-1. **Rampungkan halaman UTS (KIPP/All‑About‑Me) end‑to‑end.**
-   *Outcome:* semua tugas berisi bukti + rubrik; *Due:* T‑14 hari.
-2. **Mentor 3 tim mahasiswa menyusun artefak bernilai.**
-   *Outcome:* 3 proyek dengan metrik dampak; *Due:* T‑45 hari.
-3. **Pilot GRACE micro‑service di jemaat.**
-   *Outcome:* 1 layanan kecil terukur (mis. pendampingan lansia); *Due:* T‑90 hari.
-4. **Publikasi ringkas (working paper) integrasi iman–ilmu–nilai.**
-   *Outcome:* 1 naskah pra‑cetak; *Due:* T‑75 hari.
+1. **Membangun Mini Pentest Lab pribadi.**  
+   *Outcome:* environment + writeup dasar  
+   *Due:* 60 hari  
 
----
+2. **Belajar pentesting web secara terstruktur (OWASP + praktik).**  
+   *Outcome:* 10 writeup eksploit  
+   *Due:* 45 hari  
 
-## 11) SHAPE ↔ CPMK (Interpersonal & Public Communication)
+3. **Mengelola 1 proyek kelompok dengan struktur komunikasi jelas.**  
+   *Outcome:* log koordinasi + hasil proyek rapi  
+   *Due:* 30 hari  
 
-* **Self‑awareness & refleksi (CPMK‑S):** dituangkan pada Piagam Diri & Narasi 90 detik.
-* **Empati & komunikasi etis (CPMK‑E):** Shepherding/Exhortation → khotbah, mentoring, review berempati.
-* **Storytelling & presentasi (CPMK‑P):** Teaching + kreasi naratif → kuliah, cerita, lirik.
-* **Kolaborasi & kepemimpinan (CPMK‑K):** Leadership/Administration → proyek riset/komunitas terukur.
+4. **Membantu minimal 3 teman memahami materi tertentu.**  
+   *Outcome:* catatan/penjelasan sederhana  
+   *Due:* 30 hari  
 
 ---
 
-## 12) Self‑Assessment Rubrik UTS‑4 (isi skormu)
+## 10) Versi Ultra-Ringkas (≤140 kata)
 
-| Kriteria                | Deskripsi                      | Skor (1–5) | Bukti |
-| ----------------------- | ------------------------------ | ---------: | ----- |
-| Kelengkapan SHAPE       | S‑H‑A‑P‑E jelas & terisi       |            |       |
-| Koherensi Piagam Diri   | misi‑nilai‑peran konsisten     |            |       |
-| Narasi 90 detik         | ringkas, kuat, mengundang aksi |            |       |
-| Evidence & Aksi 90 hari | tautan bukti & rencana SMART   |            |       |
+“Saya Filbert, mahasiswa TI yang fokus pada Cyber Security. Kekuatan saya adalah observasi detail, analisis, scripting Python, dan komunikasi tim. Saya peduli pada pendidikan, keamanan data, dan literasi finansial. Turning point saya adalah kegagalan CTF pertama yang mendorong saya belajar lebih dalam. Dalam tim, saya menjadi penghubung komunikatif dan pembuat struktur kerja agar koordinasi berjalan lancar. Misi saya adalah menjadi security engineer yang etis, bertanggung jawab, dan membantu orang lain memahami teknologi dengan aman.”
 
-**Total (maks 20):** [ ]
-**Tingkat:** ☐ A (≥85%) ☐ B (70–84%) ☐ C (60–69%) ☐ D (50–59%) ☐ E (<50%)
-
----
-
-## 13) Versi Ultra‑Ringkas (≤140 kata)
-
-“Saya profesor & elder dengan karunia mengajar, membimbing, dan memimpin secara sistemik. Hati saya pada pendidikan bernilai, kesejahteraan lansia/keluarga (GRACE), dan penguatan jemaat. Kemampuan saya merancang kurikulum, rubrik, dan alat otomasi belajar; menulis ilmiah & kreatif; serta menggerakkan kolaborasi. Pengalaman saya di kampus, gereja, riset, dan kreasi konten mengajarkan integrasi iman–ilmu–aksi. Misi saya menghadirkan ekosistem yang memerdekakan: di kelas melalui pembelajaran bermakna; di jemaat melalui pelayanan kasih yang terukur; dan di masyarakat melalui inovasi yang adil. Target 90 hari: menuntaskan artefak UTS, mementori 3 tim mahasiswa, memulai layanan mikro GRACE, dan menerbitkan naskah ringkas.”
-
-
-## Piagam Diri — Armein Z. R. Langi
-
-**Pernyataan Misi**
-Saya adalah insinyur-pendidik dan penulis yang menyalakan sukacita belajar, menumbuhkan empati, dan merancang sistem cerdas yang memuliakan Tuhan serta meningkatkan kualitas hidup keluarga, kampus, dan komunitas. (Struktur mengikuti kerangka *My SHAPE*—Piagam Diri 1-halaman. )
-
-**S — Signature Strengths (inti kekuatan khas)**
-Humor, Spiritualitas, Kreativitas, Suka Belajar, Keingintahuan, Pandangan (wisdom/perspective), Bersyukur, Keadilan, Kecerdasan Sosial, Kejujuran, Kepemimpinan. (Sumber: VIA Character Strengths Profile, 13 Okt 2025. )
-
-**H — Heart (nilai & panggilan)**
-Empati sebagai kecerdasan tertinggi; kebaikan lebih utama daripada sekadar pintar; pencarian “The True Reality”; sukacita hidup yang mengasihi; keluarga sebagai ekosistem kasih. (Disimpulkan dari tulisan-tulisan Anda di blog: *Empati: Kecerdasan Tertinggi*; *On Being Nice*; *The Truth, The True Reality*; tagline blog; catatan keluarga. ([Armein Z. R. Langi in the City of Eden][1]))
-
-**A — Aptitudes & Acquired Skills (bakat & keterampilan kunci)**
-Perancangan & penelitian sistem/komputasi (speech compression, FPGA), rekayasa & kurikulum, kepemimpinan akademik, penulisan & penceritaan, fasilitasi pembelajaran, sistem & organisasi. (Contoh teknis: riset speech compression & desain kontrol prosesor pada awal karier. ([Armein Z. R. Langi in the City of Eden][2]))
-
-**P — Personality (gaya kerja yang menonjol)**
-Reflektif-analitis, empatik-inklusif, visioner, pembelajar antusias, kolaboratif; berpihak pada keadilan & integritas. (Disintesis dari pola kekuatan VIA dan tema tulisan Anda. )
-
-**E — Experiences (jejak pembentuk identitas)**
-
-* **Ketangguhan pribadi** — “The Child Who Learned to Walk at the Disneyland”: ketekunan, berjalan dalam dingin, terus melangkah menuju tujuan. ([Armein Z. R. Langi in the City of Eden][3])
-* **Lompatan kompetensi awal** — perjalanan riset: software speech compression jadi dalam 3 bulan; desain chip kontrol di Xilinx FPGA; menulis paper. ([Armein Z. R. Langi in the City of Eden][2])
-* **Keluarga & komunitas** — keluarga besar sebagai sumber nilai, pelayanan, dan sukacita. ([Armein Z. R. Langi in the City of Eden][4])
-* **Standar keunggulan** — sensibilitas benchmarking sains & pendidikan (refleksi tentang Caltech). ([Armein Z. R. Langi in the City of Eden][5])
-
-**Janji Praktis (Operating Principles)**
-
-1. *People first with empathy* • 2) *Truth-seeking with humility* • 3) *Design for value & justice* • 4) *Teach what I practice, practice what I teach* • 5) *Joyful learning, faithful living*. (Kerangka dan cara merangkum diadaptasi dari *My SHAPE Toolkit*. )
-
----
-
-## Narasi Diri (versi 90 detik)
-
-Saya Armein—insinyur, pendidik, dan penulis—yang percaya bahwa pengetahuan hanya bermakna bila melahirkan kasih dan keadilan. Kekuatan saya adalah **spiritualitas yang membumi, kreativitas rekayasa, dan kegembiraan belajar tanpa henti**, yang saya pakai untuk menyalakan semangat orang lain. 
-
-Perjalanan saya ditempa oleh pengalaman yang mengajarkan **ketekunan**—mulai dari “berjalan dalam dingin” hingga tuntas menyelesaikan riset komputasi dan merancang sistem sejak awal karier. Keluarga dan komunitas menjadi ekosistem kasih tempat saya belajar bahwa **kebaikan lebih tinggi nilainya daripada sekadar pintar** dan **empati adalah kecerdasan tertinggi**. ([Armein Z. R. Langi in the City of Eden][3])
-
-Ke depan, saya ingin terus **mendesain lingkungan belajar dan sistem cerdas** yang memuliakan Tuhan dan membawa berkat nyata—membentuk insan pembelajar yang jujur, adil, dan penuh syukur—seraya menjaga sukacita: *joy of loving and exciting life*. ([Armein Z. R. Langi in the City of Eden][3])
-
----
-
-## Narasi Diri (versi panjang, 3–5 paragraf)
-
-**Kini.** Saya mengabdikan diri sebagai insinyur-pendidik yang merancang pengalaman belajar dan sistem cerdas agar manusia bertumbuh utuh: cakap teknis, peka nurani, dan gembira belajar. Kekuatan saya—spiritualitas, kreativitas, suka belajar, keingintahuan, perspektif, keadilan, dan kepemimpinan—mengarahkan cara saya memimpin, mengajar, dan menulis. 
-
-**Dulu—titik balik.** Saya belajar bahwa langkah kecil yang konsisten mengalahkan rintangan besar: berjalan sendirian dalam dingin—secara harfiah dan metaforis—membentuk ketahanan batin. Di laboratorium, saya menuntaskan perangkat lunak **speech compression** dalam waktu singkat dan merancang **control unit** berbasis FPGA, lalu menulis paper pertama—momen yang mengajarkan disiplin, standar mutu, dan keberanian intelektual. ([Armein Z. R. Langi in the City of Eden][3])
-
-**Nilai yang saya pegang.** Saya memilih **kebaikan** di atas sekadar **kepintaran**, menempatkan **empati** sebagai kecerdasan tertinggi, dan mengejar **kebenaran sebagai realitas yang sesungguhnya**. Keluarga besar meneguhkan panggilan itu—rumah sebagai laboratorium kasih dan keadilan. ([Armein Z. R. Langi in the City of Eden][6])
-
-**Ke depan.** Dengan kerangka **My SHAPE**, saya terus menyelaraskan kekuatan, nilai, keterampilan, gaya kerja, dan pengalaman untuk merancang program, riset, dan karya tulis yang berdampak—agar teknologi menjadi pelayan kemanusiaan, dan setiap ruang belajar menjadi *City of Eden*: tempat sukacita, kasih, dan keunggulan bertemu. 
-
-
-
-[1]: https://azrl.wordpress.com/2010/04/06/empati-kecerdasan-tertinggi/?utm_source=chatgpt.com "Empati: Kecerdasan Tertinggi | Armein Z. R. Langi in the City of Eden"
-[2]: https://azrl.wordpress.com/2008/05/25/the-journey-4/?utm_source=chatgpt.com "The Journey (4) - Armein Z. R. Langi in the City of Eden"
-[3]: https://azrl.wordpress.com/?utm_source=chatgpt.com "Armein Z. R. Langi in the City of Eden | Joy of loving and ..."
-[4]: https://azrl.wordpress.com/2008/12/01/family/?utm_source=chatgpt.com "Family | Armein Z. R. Langi in the City of Eden"
-[5]: https://azrl.wordpress.com/2008/07/29/caltech/?utm_source=chatgpt.com "Caltech | Armein Z. R. Langi in the City of Eden"
-[6]: https://azrl.wordpress.com/2010/01/09/on-being-nice/?utm_source=chatgpt.com "On Being Nice | Armein Z. R. Langi in the City of Eden"
