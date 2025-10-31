@@ -1,4 +1,4 @@
-# UTS-4 — My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)
+# UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)
 
 > **Tujuan:** Merangkum rancangan diri agar saya dapat melayani, berkarya, dan memimpin dengan selaras dengan kekuatan alami, minat terdalam, gaya kerja, dan pengalaman pembentuk saya.
 
@@ -6,7 +6,7 @@
 
 ## 0) Ringkasan 1 Halaman
 
-**Peran Inti:** Security Learner & Team Integrator — analis yang teliti, komunikator tim, dan pembangun struktur kerja yang jelas.
+**Peran Inti:** Security Learner & Team Integrator - analis yang teliti, komunikator tim, dan pembangun struktur kerja yang jelas.
 
 **Misi:** Mengembangkan diri sebagai security engineer yang kompeten, etis, dan berfokus pada perlindungan pengguna; sekaligus menjadi penghubung komunikasi yang menyelaraskan anggota tim agar dapat bekerja efektif dan belajar bersama.
 
@@ -16,15 +16,15 @@
 
 **Peta SHAPE (singkat):**
 
-- **S — Spiritual Gifts:** Teaching/Explaining, Analysis, Leadership-in-training, Decision-making, Detail Observation.
-- **H — Heart:** pendidikan & literasi, keamanan data, literasi finansial, membantu orang yang ingin belajar.
-- **A — Abilities:** Python scripting, accounting, network security analysis, analitis, komunikasi strategis, penyederhanaan, perencanaan.
-- **P — Personality:** eksplorer-praktisi, komunikatif, reflektif sebelum bertindak, terstruktur, kolaboratif, bertanggung jawab.
-- **E — Experiences:** kegagalan CTF sebagai turning point, koordinasi tim dalam akademik, tugas besar yang berhasil dikejar, pengalaman membantu teman memahami materi.
+- **S - Spiritual Gifts:** Teaching/Explaining, Analysis, Leadership-in-training, Decision-making, Detail Observation.
+- **H -  Heart:** pendidikan & literasi, keamanan data, literasi finansial, membantu orang yang ingin belajar.
+- **A - Abilities:** Python scripting, accounting, network security analysis, analitis, komunikasi strategis, penyederhanaan, perencanaan.
+- **P - Personality:** eksplorer-praktisi, komunikatif, reflektif sebelum bertindak, terstruktur, kolaboratif, bertanggung jawab.
+- **E - Experiences:** kegagalan CTF sebagai turning point, koordinasi tim dalam akademik, tugas besar yang berhasil dikejar, pengalaman membantu teman memahami materi.
 
 ---
 
-## 1) S — Spiritual Gifts (Karunia / Kekuatan Inti)
+## 1) S - Spiritual Gifts (Karunia / Kekuatan Inti)
 
 Saya memiliki kecenderungan alami untuk:
 
@@ -43,10 +43,10 @@ Saya memiliki kecenderungan alami untuk:
 
 ---
 
-## 2) H — Heart (Minat, Nilai, Kepedulian)
+## 2) H - Heart (Minat, Nilai, Kepedulian)
 
 **Hal-hal yang saya pedulikan:**
-- **Pendidikan dan adult learning** — terutama bagi orang yang ingin belajar tetapi tidak tahu harus mulai dari mana.
+- **Pendidikan dan adult learning** - terutama bagi orang yang ingin belajar tetapi tidak tahu harus mulai dari mana.
 - **Keamanan data dan perlindungan pengguna**, terutama terhadap produk teknologi tidak etis atau merugikan.
 - **Literasi finansial**, karena berdampak besar pada kualitas hidup.
 
@@ -66,7 +66,7 @@ Saya memiliki kecenderungan alami untuk:
 
 ---
 
-## 3) A — Abilities (Kemampuan Andal)
+## 3) A -  Abilities (Kemampuan Andal)
 
 ### **Kemampuan Teknis Kuat**
 - **Scripting Python**  
@@ -87,10 +87,10 @@ Saya memiliki kecenderungan alami untuk:
 
 ---
 
-## 4) P — Personality (Gaya Kerja & Kolaborasi)
+## 4) P - Personality (Gaya Kerja & Kolaborasi)
 
 **Gaya Belajar:**  
-Eksplorer-praktisi — memahami cepat melalui praktik & eksperimen, didukung diskusi untuk membangun perspektif.
+Eksplorer-praktisi - memahami cepat melalui praktik & eksperimen, didukung diskusi untuk membangun perspektif.
 
 **Gaya Kerja Dalam Tim:**  
 - Penghubung komunikatif antar anggota.  
@@ -105,7 +105,7 @@ Keingintahuan • Disiplin • Kerja sama • Tanggung jawab • Kualitas
 
 ---
 
-## 5) E — Experiences (Pengalaman Pembentuk)
+## 5) E - Experiences (Pengalaman Pembentuk)
 
 ### **Turning Point**
 Kegagalan di CTF pertama menjadi titik balik yang memotivasi saya belajar lebih dalam, mencari pola, dan berlatih soal-soal online.
@@ -115,7 +115,7 @@ Menghadapi anggota tim yang tidak paham atau hilang.
 Saya mengatasinya dengan belajar lebih awal, mengarahkan yang kurang paham, dan berkomunikasi lebih tegas untuk memastikan semua kembali on track.
 
 ### **Pengalaman Positif**
-Menyelesaikan tugas besar yang saya kira mustahil, tepat di detik-detik terakhir — memberi saya keyakinan bahwa saya mampu menghadapi tekanan.
+Menyelesaikan tugas besar yang saya kira mustahil, tepat di detik-detik terakhir - memberi saya keyakinan bahwa saya mampu menghadapi tekanan.
 
 ### **Pengalaman Dampak**
 Saya rutin membantu teman memahami materi.  
@@ -152,7 +152,7 @@ Menolak praktik atau proyek yang merugikan pengguna, tidak etis, atau menyalahgu
 
 “Saya Filbert, mahasiswa TI yang menekuni Cyber Security dengan fokus pada observasi detail, analisis, scripting Python, dan network security. Turning point saya adalah kegagalan CTF pertama, yang membuat saya belajar lebih dalam dan memahami pola keamanan.  
 
-Dalam tim, saya berperan sebagai penghubung komunikasi dan pembuat rencana — memastikan koordinasi berjalan lancar dan setiap orang merasa aman untuk belajar bersama. Saya peduli pada pendidikan, keamanan data, dan literasi finansial, terutama bagi mereka yang ingin belajar namun kurang mendapatkan bimbingan.
+Dalam tim, saya berperan sebagai penghubung komunikasi dan pembuat rencana - memastikan koordinasi berjalan lancar dan setiap orang merasa aman untuk belajar bersama. Saya peduli pada pendidikan, keamanan data, dan literasi finansial, terutama bagi mereka yang ingin belajar namun kurang mendapatkan bimbingan.
 
 Misi saya adalah menjadi security engineer yang etis dan bertanggung jawab, sekaligus seseorang yang membantu orang lain memahami teknologi dengan aman dan jelas.”
 
