@@ -1,14 +1,3 @@
----
-title: "My Concepts"
-author: "Filbert Engyo"
-description: "Kumpulan konsep berpikir yang menjadi fondasi cara saya belajar, bekerja, dan mengambil keputusan."
-format:
-  html:
-    toc: true
-    toc-depth: 2
-    number-sections: true
----
-
 # UAS-1 My Concepts
 
 ## Pendahuluan

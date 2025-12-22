@@ -252,131 +252,121 @@
   {
     "objectID": "My_Concepts/index.html",
     "href": "My_Concepts/index.html",
-    "title": "6  My Concepts",
+    "title": "6  UAS-1 My Concepts",
     "section": "",
-    "text": "7 UAS-1 My Concepts",
+    "text": "6.1 Pendahuluan\nBagi saya, konsep bukan sekadar definisi atau istilah akademis.\nKonsep adalah mesin berpikir abstrak yang membantu saya mengumpulkan kekuatan pengetahuan untuk mengangkat beban masalah nyata. Tanpa konsep, praktik menjadi buta arah. Tanpa praktik, konsep menjadi lemah dan kosong.\nHalaman ini merangkum konsep-konsep utama yang membentuk cara saya memahami cyber security, belajar, bekerja dalam tim, dan mengembangkan diri.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>My Concepts</span>"
-    ]
-  },
-  {
-    "objectID": "My_Concepts/index.html#pendahuluan",
-    "href": "My_Concepts/index.html#pendahuluan",
-    "title": "6  My Concepts",
-    "section": "7.1 Pendahuluan",
-    "text": "7.1 Pendahuluan\nBagi saya, konsep bukan sekadar definisi atau istilah akademis.\nKonsep adalah mesin berpikir abstrak yang membantu saya mengumpulkan kekuatan pengetahuan untuk mengangkat beban masalah nyata. Tanpa konsep, praktik menjadi buta arah. Tanpa praktik, konsep menjadi lemah dan kosong.\nHalaman ini merangkum konsep-konsep utama yang membentuk cara saya memahami cyber security, belajar, bekerja dalam tim, dan mengembangkan diri.",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>My Concepts</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
   },
   {
     "objectID": "My_Concepts/index.html#konsep-cyber-security",
     "href": "My_Concepts/index.html#konsep-cyber-security",
-    "title": "6  My Concepts",
-    "section": "7.2 1. Konsep Cyber Security",
-    "text": "7.2 1. Konsep Cyber Security\nCyber security saya pahami sebagai ilmu terapan untuk menjaga produk digital—baik program maupun sistem—dari ancaman keamanan dan privasi yang dapat mengganggu data pribadi maupun keberlangsungan sistem.\nNamun, di balik praktik teknis seperti tools, exploit, atau konfigurasi, terdapat konsep inti:\npengetahuan fundamental dan analisis masalah yang memicu penggunaan tools tersebut.\nTanpa konsep, tools hanya menjadi alat coba-coba.\nDengan konsep, tools menjadi perpanjangan dari pemahaman.",
+    "title": "6  UAS-1 My Concepts",
+    "section": "6.2 1. Konsep Cyber Security",
+    "text": "6.2 1. Konsep Cyber Security\nCyber security saya pahami sebagai ilmu terapan untuk menjaga produk digital—baik program maupun sistem—dari ancaman keamanan dan privasi yang dapat mengganggu data pribadi maupun keberlangsungan sistem.\nNamun, di balik praktik teknis seperti tools, exploit, atau konfigurasi, terdapat konsep inti:\npengetahuan fundamental dan analisis masalah yang memicu penggunaan tools tersebut.\nTanpa konsep, tools hanya menjadi alat coba-coba.\nDengan konsep, tools menjadi perpanjangan dari pemahaman.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>My Concepts</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
   },
   {
     "objectID": "My_Concepts/index.html#definisi-vs-konsep",
     "href": "My_Concepts/index.html#definisi-vs-konsep",
-    "title": "6  My Concepts",
-    "section": "7.3 2. Definisi vs Konsep",
-    "text": "7.3 2. Definisi vs Konsep\nSaya membedakan antara definisi dan konsep sebagai berikut:\n\nDefinisi menjawab “What” — apa itu sesuatu.\nKonsep menjawab 5W+1H — mengapa, untuk apa, bagaimana, kapan, di mana, dan oleh siapa sesuatu digunakan.\n\nDalam cyber security, memahami bagaimana dan mengapa suatu serangan terjadi jauh lebih penting daripada sekadar tahu apa nama serangannya.",
+    "title": "6  UAS-1 My Concepts",
+    "section": "6.3 2. Definisi vs Konsep",
+    "text": "6.3 2. Definisi vs Konsep\nSaya membedakan antara definisi dan konsep sebagai berikut:\n\nDefinisi menjawab “What” — apa itu sesuatu.\nKonsep menjawab 5W+1H — mengapa, untuk apa, bagaimana, kapan, di mana, dan oleh siapa sesuatu digunakan.\n\nDalam cyber security, memahami bagaimana dan mengapa suatu serangan terjadi jauh lebih penting daripada sekadar tahu apa nama serangannya.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>My Concepts</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
   },
   {
     "objectID": "My_Concepts/index.html#konsep-kekuatan-dan-beban",
     "href": "My_Concepts/index.html#konsep-kekuatan-dan-beban",
-    "title": "6  My Concepts",
-    "section": "7.4 3. Konsep Kekuatan dan Beban",
-    "text": "7.4 3. Konsep Kekuatan dan Beban\nSetiap proses belajar selalu melibatkan dua elemen:\n\nKekuatan (K): pengetahuan yang dikumpulkan melalui latihan, analisis soal, dan membaca write-up.\nBeban (B): tantangan baru, seperti mempelajari bidang lain dalam cyber security atau menghadapi soal yang belum pernah ditemui.\n\nKegagalan CTF pertama saya menjadi contoh nyata:\nbeban terlalu berat karena kekuatan belum cukup.\nSolusinya bukan menyerah, tetapi membangun kekuatan secara bertahap.",
+    "title": "6  UAS-1 My Concepts",
+    "section": "6.4 3. Konsep Kekuatan dan Beban",
+    "text": "6.4 3. Konsep Kekuatan dan Beban\nSetiap proses belajar selalu melibatkan dua elemen:\n\nKekuatan (K): pengetahuan yang dikumpulkan melalui latihan, analisis soal, dan membaca write-up.\nBeban (B): tantangan baru, seperti mempelajari bidang lain dalam cyber security atau menghadapi soal yang belum pernah ditemui.\n\nKegagalan CTF pertama saya menjadi contoh nyata:\nbeban terlalu berat karena kekuatan belum cukup.\nSolusinya bukan menyerah, tetapi membangun kekuatan secara bertahap.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>My Concepts</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
   },
   {
     "objectID": "My_Concepts/index.html#konsep-fokus-dalam-belajar",
     "href": "My_Concepts/index.html#konsep-fokus-dalam-belajar",
-    "title": "6  My Concepts",
-    "section": "7.5 4. Konsep Fokus dalam Belajar",
-    "text": "7.5 4. Konsep Fokus dalam Belajar\nCyber security memiliki ruang lingkup yang sangat luas.\nTanpa konsep fokus, belajar menjadi melelahkan dan membingungkan.\nKonsep yang saya pegang:\n\nTentukan 1–2 bidang yang menarik (misalnya web exploitation, cryptography, OSINT).\nPelajari fundamentalnya terlebih dahulu, tidak harus langsung mendalam.\nGabungkan belajar dengan praktik nyata melalui soal CTF atau kasus sederhana.\nBangun konsistensi sebelum memperluas cakupan.\n\nDengan cara ini, otak tidak “kosong” saat menghadapi tantangan nyata.",
+    "title": "6  UAS-1 My Concepts",
+    "section": "6.5 4. Konsep Fokus dalam Belajar",
+    "text": "6.5 4. Konsep Fokus dalam Belajar\nCyber security memiliki ruang lingkup yang sangat luas.\nTanpa konsep fokus, belajar menjadi melelahkan dan membingungkan.\nKonsep yang saya pegang:\n\nTentukan 1–2 bidang yang menarik (misalnya web exploitation, cryptography, OSINT).\nPelajari fundamentalnya terlebih dahulu, tidak harus langsung mendalam.\nGabungkan belajar dengan praktik nyata melalui soal CTF atau kasus sederhana.\nBangun konsistensi sebelum memperluas cakupan.\n\nDengan cara ini, otak tidak “kosong” saat menghadapi tantangan nyata.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>My Concepts</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
   },
   {
     "objectID": "My_Concepts/index.html#konsep-konsistensi-lambat-tapi-kokoh",
     "href": "My_Concepts/index.html#konsep-konsistensi-lambat-tapi-kokoh",
-    "title": "6  My Concepts",
-    "section": "7.6 5. Konsep Konsistensi: Lambat tapi Kokoh",
-    "text": "7.6 5. Konsep Konsistensi: Lambat tapi Kokoh\nSaya percaya bahwa fondasi yang dibangun perlahan namun konsisten jauh lebih kuat daripada belajar intensif tapi tidak berkelanjutan.\nPrinsip saya: - Sedikit setiap hari lebih baik daripada banyak tapi jarang. - Konsistensi membentuk insting. - Insting lahir dari pengulangan yang sadar.\nKonsep ini saya terapkan dengan menjadwalkan waktu khusus untuk mengerjakan soal atau membaca write-up, tanpa menuntut hasil instan.",
+    "title": "6  UAS-1 My Concepts",
+    "section": "6.6 5. Konsep Konsistensi: Lambat tapi Kokoh",
+    "text": "6.6 5. Konsep Konsistensi: Lambat tapi Kokoh\nSaya percaya bahwa fondasi yang dibangun perlahan namun konsisten jauh lebih kuat daripada belajar intensif tapi tidak berkelanjutan.\nPrinsip saya: - Sedikit setiap hari lebih baik daripada banyak tapi jarang. - Konsistensi membentuk insting. - Insting lahir dari pengulangan yang sadar.\nKonsep ini saya terapkan dengan menjadwalkan waktu khusus untuk mengerjakan soal atau membaca write-up, tanpa menuntut hasil instan.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>My Concepts</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
   },
   {
     "objectID": "My_Concepts/index.html#konsep-ide-vs-eksekusi",
     "href": "My_Concepts/index.html#konsep-ide-vs-eksekusi",
-    "title": "6  My Concepts",
-    "section": "7.7 6. Konsep Ide vs Eksekusi",
-    "text": "7.7 6. Konsep Ide vs Eksekusi\nSaya melihat perbedaan jelas antara:\n\nOrang yang mengoleksi ide: punya banyak gagasan, tetapi belum tentu dieksekusi.\nOrang yang memiliki konsep: mampu mengeksekusi ide karena tahu arah, batasan, dan pertimbangannya.\n\nPengalaman brute force soal CTF tanpa konsep mengajarkan saya bahwa praktik tanpa konsep hanya membuang energi.",
+    "title": "6  UAS-1 My Concepts",
+    "section": "6.7 6. Konsep Ide vs Eksekusi",
+    "text": "6.7 6. Konsep Ide vs Eksekusi\nSaya melihat perbedaan jelas antara:\n\nOrang yang mengoleksi ide: punya banyak gagasan, tetapi belum tentu dieksekusi.\nOrang yang memiliki konsep: mampu mengeksekusi ide karena tahu arah, batasan, dan pertimbangannya.\n\nPengalaman brute force soal CTF tanpa konsep mengajarkan saya bahwa praktik tanpa konsep hanya membuang energi.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>My Concepts</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
   },
   {
     "objectID": "My_Concepts/index.html#konsep-learning-by-doing",
     "href": "My_Concepts/index.html#konsep-learning-by-doing",
-    "title": "6  My Concepts",
-    "section": "7.8 7. Konsep Learning by Doing",
-    "text": "7.8 7. Konsep Learning by Doing\nLearning by doing adalah best practice utama saya.\nSaya memahami sesuatu ketika: - Saya mencoba langsung, - gagal, - menganalisis kegagalan, - membaca write-up, - lalu mencoba kembali.\nDengan cara ini, konsep tidak hanya dipahami secara kognitif, tetapi juga tertanam sebagai pola berpikir.",
+    "title": "6  UAS-1 My Concepts",
+    "section": "6.8 7. Konsep Learning by Doing",
+    "text": "6.8 7. Konsep Learning by Doing\nLearning by doing adalah best practice utama saya.\nSaya memahami sesuatu ketika: - Saya mencoba langsung, - gagal, - menganalisis kegagalan, - membaca write-up, - lalu mencoba kembali.\nDengan cara ini, konsep tidak hanya dipahami secara kognitif, tetapi juga tertanam sebagai pola berpikir.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>My Concepts</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
   },
   {
     "objectID": "My_Concepts/index.html#konsep-komunikasi-sebagai-mesin-koordinasi",
     "href": "My_Concepts/index.html#konsep-komunikasi-sebagai-mesin-koordinasi",
-    "title": "6  My Concepts",
-    "section": "7.9 8. Konsep Komunikasi sebagai Mesin Koordinasi",
-    "text": "7.9 8. Konsep Komunikasi sebagai Mesin Koordinasi\nDalam kerja tim, saya sering mengambil peran sebagai penghubung komunikasi.\nKonsepnya sederhana: - Koordinasi yang buruk adalah beban besar. - Komunikasi yang jelas adalah kekuatan kolektif.\nSaya berdiri di tengah tim untuk memastikan: - pembagian tugas jelas, - status pekerjaan terpantau, - setiap anggota merasa aman untuk bertanya dan tidak tertinggal.",
+    "title": "6  UAS-1 My Concepts",
+    "section": "6.9 8. Konsep Komunikasi sebagai Mesin Koordinasi",
+    "text": "6.9 8. Konsep Komunikasi sebagai Mesin Koordinasi\nDalam kerja tim, saya sering mengambil peran sebagai penghubung komunikasi.\nKonsepnya sederhana: - Koordinasi yang buruk adalah beban besar. - Komunikasi yang jelas adalah kekuatan kolektif.\nSaya berdiri di tengah tim untuk memastikan: - pembagian tugas jelas, - status pekerjaan terpantau, - setiap anggota merasa aman untuk bertanya dan tidak tertinggal.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>My Concepts</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
   },
   {
     "objectID": "My_Concepts/index.html#konsep-etika-dalam-teknologi",
     "href": "My_Concepts/index.html#konsep-etika-dalam-teknologi",
-    "title": "6  My Concepts",
-    "section": "7.10 9. Konsep Etika dalam Teknologi",
-    "text": "7.10 9. Konsep Etika dalam Teknologi\nSaya menganggap teknologi yang baik harus memenuhi tiga aspek:\n\nPengalaman pengguna yang masuk akal\nKesejahteraan developer\nModel bisnis yang etis dan rasional\n\nKetika sebuah produk terlalu profit-driven hingga mengorbankan kualitas atau transparansi, itu menjadi tanda bahwa konsepnya lemah—meskipun teknologinya canggih.",
+    "title": "6  UAS-1 My Concepts",
+    "section": "6.10 9. Konsep Etika dalam Teknologi",
+    "text": "6.10 9. Konsep Etika dalam Teknologi\nSaya menganggap teknologi yang baik harus memenuhi tiga aspek:\n\nPengalaman pengguna yang masuk akal\nKesejahteraan developer\nModel bisnis yang etis dan rasional\n\nKetika sebuah produk terlalu profit-driven hingga mengorbankan kualitas atau transparansi, itu menjadi tanda bahwa konsepnya lemah—meskipun teknologinya canggih.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>My Concepts</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
   },
   {
     "objectID": "My_Concepts/index.html#konsep-produktivitas-dan-arah-hidup",
     "href": "My_Concepts/index.html#konsep-produktivitas-dan-arah-hidup",
-    "title": "6  My Concepts",
-    "section": "7.11 10. Konsep Produktivitas dan Arah Hidup",
-    "text": "7.11 10. Konsep Produktivitas dan Arah Hidup\nSaya menyadari bahwa tanpa rutinitas dan konsep produktivitas, seseorang mudah terjebak dalam kemalasan dan kehilangan arah.\nKonsep yang saya pegang: &gt; Sadar akan pentingnya produktivitas, lalu mengeksekusinya melalui latihan nyata secara perlahan namun konsisten.\nBeban yang ingin saya angkat adalah rasa ketidaktahuan dan stagnasi.\nKekuatan yang saya bangun adalah pengetahuan yang hidup melalui praktik.",
+    "title": "6  UAS-1 My Concepts",
+    "section": "6.11 10. Konsep Produktivitas dan Arah Hidup",
+    "text": "6.11 10. Konsep Produktivitas dan Arah Hidup\nSaya menyadari bahwa tanpa rutinitas dan konsep produktivitas, seseorang mudah terjebak dalam kemalasan dan kehilangan arah.\nKonsep yang saya pegang: &gt; Sadar akan pentingnya produktivitas, lalu mengeksekusinya melalui latihan nyata secara perlahan namun konsisten.\nBeban yang ingin saya angkat adalah rasa ketidaktahuan dan stagnasi.\nKekuatan yang saya bangun adalah pengetahuan yang hidup melalui praktik.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>My Concepts</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
   },
   {
     "objectID": "My_Concepts/index.html#penutup-konsep-sebagai-kompas",
     "href": "My_Concepts/index.html#penutup-konsep-sebagai-kompas",
-    "title": "6  My Concepts",
-    "section": "7.12 Penutup: Konsep sebagai Kompas",
-    "text": "7.12 Penutup: Konsep sebagai Kompas\nBagi saya, risiko terbesar dari konsep yang tidak jelas adalah: - tidak adanya pendirian dalam hidup dan pengambilan keputusan.\nNamun konsep yang terlalu kaku juga berbahaya karena: - menutup kemampuan beradaptasi di dunia yang terus berubah.\nKarena itu, saya memilih konsep yang kuat namun fleksibel—cukup kokoh untuk memberi arah, namun cukup terbuka untuk bertumbuh.",
+    "title": "6  UAS-1 My Concepts",
+    "section": "6.12 Penutup: Konsep sebagai Kompas",
+    "text": "6.12 Penutup: Konsep sebagai Kompas\nBagi saya, risiko terbesar dari konsep yang tidak jelas adalah: - tidak adanya pendirian dalam hidup dan pengambilan keputusan.\nNamun konsep yang terlalu kaku juga berbahaya karena: - menutup kemampuan beradaptasi di dunia yang terus berubah.\nKarena itu, saya memilih konsep yang kuat namun fleksibel—cukup kokoh untuk memberi arah, namun cukup terbuka untuk bertumbuh.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>My Concepts</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
   },
   {
