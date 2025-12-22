@@ -372,11 +372,81 @@
   {
     "objectID": "My_Opinions/index.html",
     "href": "My_Opinions/index.html",
-    "title": "7  UAS-3 My Opinions",
+    "title": "7  UAS-2 My Opinions",
     "section": "",
-    "text": "SApa itu beropini? Opini Berpengaruh\nBagiamana menjaadi menarik? Menjadi Menarik",
+    "text": "7.1 1. Pengantar\nOpini bagi saya bukan sekadar pendapat spontan, melainkan hasil dari proses berpikir yang melibatkan pengalaman, nilai, emosi, dan informasi. Opini menjadi alat refleksi diri sekaligus kompas dalam mengambil sikap—baik dalam pembelajaran, kerja tim, maupun pengambilan keputusan.\nHalaman ini merangkum opini-opini utama yang membentuk cara saya melihat dunia akademik, teknologi, dan pengembangan diri.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-3 My Opinions</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2 My Opinions</span>"
+    ]
+  },
+  {
+    "objectID": "My_Opinions/index.html#sumber-pembentuk-opini-saya",
+    "href": "My_Opinions/index.html#sumber-pembentuk-opini-saya",
+    "title": "7  UAS-2 My Opinions",
+    "section": "7.2 2. Sumber Pembentuk Opini Saya",
+    "text": "7.2 2. Sumber Pembentuk Opini Saya\nOpini yang saya miliki banyak dibentuk oleh pengalaman nyata, khususnya dalam proses belajar Cyber Security.\n\n7.2.1 2.1 Informasi & Pengalaman\nPengalaman mengerjakan soal CTF dan membaca write-up membuka cara pandang baru dalam menganalisis masalah. Dari situ saya belajar bahwa satu masalah bisa diselesaikan dengan banyak pendekatan, dan pemahaman konsep jauh lebih penting daripada sekadar mencoba secara acak.\n\n\n7.2.2 2.2 Nilai yang Saya Pegang\nNilai utama yang memengaruhi opini saya adalah:\n\nKeadilan\nKualitas\nKeamanan pengguna\n\nKetiga nilai ini menjadi dasar saya dalam menilai teknologi, sistem, maupun kebijakan.\n\n\n7.2.3 2.3 Perasaan yang Terlibat\nKetika menghadapi sistem atau produk yang buruk, saya sering merasa resah sekaligus tertantang. Rasa ini mendorong saya untuk tidak hanya mengkritik, tetapi juga mencoba memahami akar masalah dan mencari solusi yang lebih baik.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2 My Opinions</span>"
+    ]
+  },
+  {
+    "objectID": "My_Opinions/index.html#opini-tentang-pembelajaran-pendidikan",
+    "href": "My_Opinions/index.html#opini-tentang-pembelajaran-pendidikan",
+    "title": "7  UAS-2 My Opinions",
+    "section": "7.3 3. Opini tentang Pembelajaran & Pendidikan",
+    "text": "7.3 3. Opini tentang Pembelajaran & Pendidikan\n\n7.3.1 3.1 Teori vs Praktik\nSaya berpendapat bahwa dunia perkuliahan masih terlalu menekankan teori dibanding praktik nyata yang relevan dengan dunia kerja. Hal ini membuat banyak mahasiswa kurang siap menghadapi kondisi riil di industri.\n\n\n7.3.2 3.2 Spesialisasi vs Generalisasi\nSaya cenderung setuju bahwa:\n\nMaster of one lebih dihargai di industri dibanding jack of all trades\n\nMempelajari terlalu banyak hal sekaligus berisiko membuat pemahaman menjadi dangkal dan membingungkan\n\nPandangan ini saya peroleh dari diskusi dengan orang-orang yang sudah bekerja di industri.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2 My Opinions</span>"
+    ]
+  },
+  {
+    "objectID": "My_Opinions/index.html#opini-tentang-proses-belajar-yang-efektif",
+    "href": "My_Opinions/index.html#opini-tentang-proses-belajar-yang-efektif",
+    "title": "7  UAS-2 My Opinions",
+    "section": "7.4 4. Opini tentang Proses Belajar yang Efektif",
+    "text": "7.4 4. Opini tentang Proses Belajar yang Efektif\n\n7.4.1 4.1 Learning by Doing\nMenurut saya, praktik langsung adalah metode belajar terbaik. Membaca teori tanpa mencoba hanya akan menghasilkan pemahaman semu. Oleh karena itu:\n\nMengerjakan soal\nMembaca write-up\nMencoba ulang secara mandiri\n\nmenjadi kebiasaan penting yang harus dijaga.\n\n\n7.4.2 4.2 Konsistensi di atas Kecepatan\nSaya percaya bahwa progres yang lambat tetapi konsisten jauh lebih kokoh dibanding belajar banyak dalam waktu singkat namun tidak berkelanjutan.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2 My Opinions</span>"
+    ]
+  },
+  {
+    "objectID": "My_Opinions/index.html#opini-tentang-teknologi-etika",
+    "href": "My_Opinions/index.html#opini-tentang-teknologi-etika",
+    "title": "7  UAS-2 My Opinions",
+    "section": "7.5 5. Opini tentang Teknologi & Etika",
+    "text": "7.5 5. Opini tentang Teknologi & Etika\n\n7.5.1 5.1 Teknologi yang Merugikan\nProduk teknologi yang merugikan pengguna biasanya lahir dari budaya yang terlalu profit-driven, sehingga:\n\nUser experience diabaikan\nKualitas dan keamanan dikorbankan\n\nSebagai programmer, intuisi teknis sering kali membantu saya mencurigai sistem yang tidak masuk akal secara desain atau implementasi.\n\n\n7.5.2 5.2 Teknologi yang Etis\nTeknologi yang etis menurut saya harus menyeimbangkan:\n\nPengalaman pengguna\nKesejahteraan developer\nModel bisnis yang masuk akal\n\nJika salah satu diabaikan, maka praktik terbaik (best practice) pun cenderung tidak dijalankan dengan benar.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2 My Opinions</span>"
+    ]
+  },
+  {
+    "objectID": "My_Opinions/index.html#opini-tentang-opini-itu-sendiri",
+    "href": "My_Opinions/index.html#opini-tentang-opini-itu-sendiri",
+    "title": "7  UAS-2 My Opinions",
+    "section": "7.6 6. Opini tentang Opini Itu Sendiri",
+    "text": "7.6 6. Opini tentang Opini Itu Sendiri\n\n7.6.1 6.1 Risiko Opini yang Tidak Sehat\nOpini yang dibentuk terlalu cepat tanpa informasi yang cukup berbahaya karena berpotensi menyebarkan misinformasi dan merusak sudut pandang orang lain.\nSebaliknya, terlalu takut beropini juga menghambat pengambilan keputusan.\n\n\n7.6.2 6.2 Cara Saya Menghadapi Perbedaan Opini\nKetika menghadapi perbedaan pendapat, saya cenderung:\n\nMendengarkan terlebih dahulu\nMencari pola atau generalisasi\nBertanya dan menguji kembali jika belum menemukan benang merah\n\nTujuan utama saya adalah mencapai kesepakatan, atau setidaknya pemahaman bersama agar tidak ada konflik yang menggantung.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2 My Opinions</span>"
+    ]
+  },
+  {
+    "objectID": "My_Opinions/index.html#sikap-pribadi-terhadap-opini",
+    "href": "My_Opinions/index.html#sikap-pribadi-terhadap-opini",
+    "title": "7  UAS-2 My Opinions",
+    "section": "7.7 7. Sikap Pribadi terhadap Opini",
+    "text": "7.7 7. Sikap Pribadi terhadap Opini\nSaya menganggap sikap “ingin selalu benar” sebagai sesuatu yang berbahaya karena:\n\nMengaburkan rasionalitas\nMembuat keputusan menjadi bias\n\nSikap yang saya usahakan dalam beropini adalah:\n\nTegas\nTerbuka terhadap masukan\nKritis\nTidak bertele-tele\n\nOpini yang sehat adalah opini yang bisa berubah ketika dihadapkan pada informasi, nilai, atau konteks baru.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2 My Opinions</span>"
+    ]
+  },
+  {
+    "objectID": "My_Opinions/index.html#prinsip-penutup",
+    "href": "My_Opinions/index.html#prinsip-penutup",
+    "title": "7  UAS-2 My Opinions",
+    "section": "7.8 8. Prinsip Penutup",
+    "text": "7.8 8. Prinsip Penutup\nPrinsip sederhana yang saya pegang dalam belajar dan beropini adalah:\n\nLakukan yang terbaik, percaya pada proses, dan jika ragu—bertanyalah. Lebih baik bertanya daripada melangkah jauh ke arah yang salah.\n\nHalaman ini akan terus berkembang seiring bertambahnya pengalaman dan pemahaman saya.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>UAS-2 My Opinions</span>"
     ]
   },
   {
