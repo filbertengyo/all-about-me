@@ -66,6 +66,7 @@ Dengan cara ini, otak tidak “kosong” saat menghadapi tantangan nyata.
 Saya percaya bahwa **fondasi yang dibangun perlahan namun konsisten** jauh lebih kuat daripada belajar intensif tapi tidak berkelanjutan.
 
 Prinsip saya:
+
 - Sedikit setiap hari lebih baik daripada banyak tapi jarang.
 - Konsistensi membentuk insting.
 - Insting lahir dari pengulangan yang sadar.
@@ -90,6 +91,7 @@ Pengalaman brute force soal CTF tanpa konsep mengajarkan saya bahwa **praktik ta
 Learning by doing adalah *best practice* utama saya.
 
 Saya memahami sesuatu ketika:
+
 - Saya mencoba langsung,
 - gagal,
 - menganalisis kegagalan,
@@ -105,10 +107,12 @@ Dengan cara ini, konsep tidak hanya dipahami secara kognitif, tetapi juga tertan
 Dalam kerja tim, saya sering mengambil peran sebagai **penghubung komunikasi**.
 
 Konsepnya sederhana:
+
 - Koordinasi yang buruk adalah beban besar.
 - Komunikasi yang jelas adalah kekuatan kolektif.
 
 Saya berdiri di tengah tim untuk memastikan:
+
 - pembagian tugas jelas,
 - status pekerjaan terpantau,
 - setiap anggota merasa aman untuk bertanya dan tidak tertinggal.
