@@ -1,6 +1,164 @@
+---
+title: "My Concepts"
+author: "Filbert Engyo"
+description: "Kumpulan konsep berpikir yang menjadi fondasi cara saya belajar, bekerja, dan mengambil keputusan."
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+---
+
 # UAS-1 My Concepts
-Mau hidup epik ? [Write your Life Story](lifestory.pdf)
 
-Apa itu berkonsep? 
+## Pendahuluan
 
-{{< video https://youtu.be/QVfUlVBO80U?si=yM6q_rwV9rcDBbu7>}}
+Bagi saya, konsep bukan sekadar definisi atau istilah akademis.  
+Konsep adalah **mesin berpikir abstrak** yang membantu saya mengumpulkan kekuatan pengetahuan untuk mengangkat beban masalah nyata. Tanpa konsep, praktik menjadi buta arah. Tanpa praktik, konsep menjadi lemah dan kosong.
+
+Halaman ini merangkum konsep-konsep utama yang membentuk cara saya memahami **cyber security**, **belajar**, **bekerja dalam tim**, dan **mengembangkan diri**.
+
+---
+
+## 1. Konsep Cyber Security
+
+Cyber security saya pahami sebagai **ilmu terapan** untuk menjaga produk digital—baik program maupun sistem—dari ancaman keamanan dan privasi yang dapat mengganggu data pribadi maupun keberlangsungan sistem.
+
+Namun, di balik praktik teknis seperti tools, exploit, atau konfigurasi, terdapat konsep inti:  
+**pengetahuan fundamental dan analisis masalah** yang memicu penggunaan tools tersebut.
+
+Tanpa konsep, tools hanya menjadi alat coba-coba.  
+Dengan konsep, tools menjadi perpanjangan dari pemahaman.
+
+---
+
+## 2. Definisi vs Konsep
+
+Saya membedakan antara *definisi* dan *konsep* sebagai berikut:
+
+- **Definisi** menjawab *“What”* — apa itu sesuatu.
+- **Konsep** menjawab *5W+1H* — mengapa, untuk apa, bagaimana, kapan, di mana, dan oleh siapa sesuatu digunakan.
+
+Dalam cyber security, memahami *bagaimana dan mengapa* suatu serangan terjadi jauh lebih penting daripada sekadar tahu *apa nama serangannya*.
+
+---
+
+## 3. Konsep Kekuatan dan Beban
+
+Setiap proses belajar selalu melibatkan dua elemen:
+
+- **Kekuatan (K):** pengetahuan yang dikumpulkan melalui latihan, analisis soal, dan membaca write-up.
+- **Beban (B):** tantangan baru, seperti mempelajari bidang lain dalam cyber security atau menghadapi soal yang belum pernah ditemui.
+
+Kegagalan CTF pertama saya menjadi contoh nyata:  
+beban terlalu berat karena kekuatan belum cukup.  
+Solusinya bukan menyerah, tetapi **membangun kekuatan secara bertahap**.
+
+---
+
+## 4. Konsep Fokus dalam Belajar
+
+Cyber security memiliki ruang lingkup yang sangat luas.  
+Tanpa konsep fokus, belajar menjadi melelahkan dan membingungkan.
+
+Konsep yang saya pegang:
+
+1. Tentukan 1–2 bidang yang menarik (misalnya web exploitation, cryptography, OSINT).
+2. Pelajari fundamentalnya terlebih dahulu, tidak harus langsung mendalam.
+3. Gabungkan belajar dengan praktik nyata melalui soal CTF atau kasus sederhana.
+4. Bangun konsistensi sebelum memperluas cakupan.
+
+Dengan cara ini, otak tidak “kosong” saat menghadapi tantangan nyata.
+
+---
+
+## 5. Konsep Konsistensi: Lambat tapi Kokoh
+
+Saya percaya bahwa **fondasi yang dibangun perlahan namun konsisten** jauh lebih kuat daripada belajar intensif tapi tidak berkelanjutan.
+
+Prinsip saya:
+- Sedikit setiap hari lebih baik daripada banyak tapi jarang.
+- Konsistensi membentuk insting.
+- Insting lahir dari pengulangan yang sadar.
+
+Konsep ini saya terapkan dengan menjadwalkan waktu khusus untuk mengerjakan soal atau membaca write-up, tanpa menuntut hasil instan.
+
+---
+
+## 6. Konsep Ide vs Eksekusi
+
+Saya melihat perbedaan jelas antara:
+
+- **Orang yang mengoleksi ide:** punya banyak gagasan, tetapi belum tentu dieksekusi.
+- **Orang yang memiliki konsep:** mampu mengeksekusi ide karena tahu arah, batasan, dan pertimbangannya.
+
+Pengalaman brute force soal CTF tanpa konsep mengajarkan saya bahwa **praktik tanpa konsep hanya membuang energi**.
+
+---
+
+## 7. Konsep Learning by Doing
+
+Learning by doing adalah *best practice* utama saya.
+
+Saya memahami sesuatu ketika:
+- Saya mencoba langsung,
+- gagal,
+- menganalisis kegagalan,
+- membaca write-up,
+- lalu mencoba kembali.
+
+Dengan cara ini, konsep tidak hanya dipahami secara kognitif, tetapi juga tertanam sebagai pola berpikir.
+
+---
+
+## 8. Konsep Komunikasi sebagai Mesin Koordinasi
+
+Dalam kerja tim, saya sering mengambil peran sebagai **penghubung komunikasi**.
+
+Konsepnya sederhana:
+- Koordinasi yang buruk adalah beban besar.
+- Komunikasi yang jelas adalah kekuatan kolektif.
+
+Saya berdiri di tengah tim untuk memastikan:
+- pembagian tugas jelas,
+- status pekerjaan terpantau,
+- setiap anggota merasa aman untuk bertanya dan tidak tertinggal.
+
+---
+
+## 9. Konsep Etika dalam Teknologi
+
+Saya menganggap teknologi yang baik harus memenuhi tiga aspek:
+
+1. **Pengalaman pengguna yang masuk akal**
+2. **Kesejahteraan developer**
+3. **Model bisnis yang etis dan rasional**
+
+Ketika sebuah produk terlalu profit-driven hingga mengorbankan kualitas atau transparansi, itu menjadi tanda bahwa konsepnya lemah—meskipun teknologinya canggih.
+
+---
+
+## 10. Konsep Produktivitas dan Arah Hidup
+
+Saya menyadari bahwa tanpa rutinitas dan konsep produktivitas, seseorang mudah terjebak dalam kemalasan dan kehilangan arah.
+
+Konsep yang saya pegang:
+> Sadar akan pentingnya produktivitas, lalu mengeksekusinya melalui latihan nyata secara perlahan namun konsisten.
+
+Beban yang ingin saya angkat adalah **rasa ketidaktahuan dan stagnasi**.  
+Kekuatan yang saya bangun adalah **pengetahuan yang hidup melalui praktik**.
+
+---
+
+## Penutup: Konsep sebagai Kompas
+
+Bagi saya, risiko terbesar dari konsep yang tidak jelas adalah:
+- tidak adanya pendirian dalam hidup dan pengambilan keputusan.
+
+Namun konsep yang terlalu kaku juga berbahaya karena:
+- menutup kemampuan beradaptasi di dunia yang terus berubah.
+
+Karena itu, saya memilih konsep yang **kuat namun fleksibel**—cukup kokoh untuk memberi arah, namun cukup terbuka untuk bertumbuh.
+
+---
+
