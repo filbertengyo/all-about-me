@@ -15,6 +15,7 @@
 Karya **UAS-1 hingga UAS-4** merepresentasikan perjalanan berpikir konseptual, reflektif, dan aplikatif dalam memahami **perubahan iklim** melalui perspektif **sistem informasi dan Artificial Intelligence**.
 
 Keempat bagian disusun secara berurutan dan saling menguatkan:
+
 - **UAS-1 (Concepts)** membangun kerangka berpikir,
 - **UAS-2 (Opinions)** menunjukkan posisi nilai dan sikap,
 - **UAS-3 (Knowledge)** menjelaskan struktur pengetahuan dan aksi,
