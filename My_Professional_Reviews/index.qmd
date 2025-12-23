@@ -1,2 +1,134 @@
-## UAS-5 My Professional Reviews
-Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+# UAS-5 My Professional Reviews
+
+## Identifikasi
+
+- **Nama Mahasiswa:** Filbert Engyo  
+- **NIM:** 13523163  
+- **Jenis Penilaian:** Self Assessment  
+- **Tema UAS:** *My Masterpiece: Penerapan Sistem dan Teknologi Informasi di Era Artificial Intelligence*  
+- **Topik Masalah Kemanusiaan:** Perubahan Iklim  
+
+---
+
+## Tinjauan Umum
+
+Karya **UAS-1 hingga UAS-4** merepresentasikan perjalanan berpikir konseptual, reflektif, dan aplikatif dalam memahami **perubahan iklim** melalui perspektif **sistem informasi dan Artificial Intelligence**.
+
+Keempat bagian disusun secara berurutan dan saling menguatkan:
+- **UAS-1 (Concepts)** membangun kerangka berpikir,
+- **UAS-2 (Opinions)** menunjukkan posisi nilai dan sikap,
+- **UAS-3 (Knowledge)** menjelaskan struktur pengetahuan dan aksi,
+- **UAS-4 (Innovations)** merumuskan penciptaan nilai nyata.
+
+Pendekatan ini menunjukkan bahwa teknologi tidak diposisikan sebagai solusi tunggal, melainkan sebagai **alat bantu pengambilan keputusan manusia** yang beretika dan realistis.
+
+---
+
+## Tinjauan Spesifik Berdasarkan Rubrik
+
+### **UAS-1 — My Concepts**
+
+**Deskripsi Singkat**  
+Bagian ini menjelaskan perubahan iklim sebagai hasil interaksi fenomena alam dan aktivitas manusia, serta menempatkan teknologi dan AI sebagai *decision-support system*, bukan pengganti tanggung jawab manusia.
+
+**Penilaian (Rubrik Konsep):**
+
+| Kriteria | Skor | Alasan Penilaian |
+|--------|------|-----------------|
+| Clarity | **5** | Konsep dijelaskan runtut, konsisten, dan minim ambiguitas. |
+| Logic | **5** | Alur sebab–akibat dan peran teknologi dijabarkan secara logis. |
+| Validity | **4** | Argumen kuat secara rasional, meski belum disertai studi kasus spesifik. |
+| Usefulness | **4** | Konsep relevan untuk dasar kebijakan dan perancangan sistem iklim. |
+
+**Catatan Pengembangan:**  
+Menambahkan contoh implementasi nyata (misalnya level kota atau organisasi) akan meningkatkan validitas praktis.
+
+---
+
+### **UAS-2 — My Opinions**
+
+**Deskripsi Singkat**  
+Bagian ini memuat opini yang dibentuk oleh informasi publik, nilai keberlanjutan, dan pertimbangan rasional dalam menyikapi kebijakan, teknologi, dan dampak sosial perubahan iklim.
+
+**Penilaian (Rubrik Opini):**
+
+| Kriteria | Skor | Alasan Penilaian |
+|---------|------|-----------------|
+| Compelling | **4** | Argumentasi menarik dan konsisten, meski masih bisa dipadatkan. |
+| Informative | **4** | Memberi wawasan yang relevan dan kontekstual. |
+| Persuasive | **4** | Opini logis dan seimbang, meski tanpa data kuantitatif eksplisit. |
+| Engaging | **4** | Mengajak pembaca berpikir kritis tentang kebijakan dan teknologi. |
+
+**Catatan Pengembangan:**  
+Perbandingan kebijakan atau ilustrasi kebijakan nyata dapat memperkuat daya persuasi.
+
+---
+
+### **UAS-3 — My Knowledge**
+
+**Deskripsi Singkat**  
+Bagian ini memposisikan pengetahuan sebagai alat **analisis dan aksi**, bukan sekadar pemahaman pasif. Fokus utama adalah peran sistem informasi dalam mengolah data lingkungan menjadi dasar pengambilan keputusan.
+
+**Penilaian (Rubrik Konsep – Pengetahuan):**
+
+| Kriteria | Skor | Alasan Penilaian |
+|--------|------|-----------------|
+| Clarity | **4** | Penjelasan jelas, namun dapat diperkuat dengan visualisasi struktur. |
+| Logic | **5** | Hubungan analisis → evaluasi → aksi dijelaskan sangat koheren. |
+| Validity | **4** | Selaras dengan praktik sistem informasi dan problem solving. |
+| Usefulness | **5** | Sangat aplikatif untuk mitigasi dan perencanaan iklim. |
+
+**Catatan Pengembangan:**  
+Pemetaan eksplisit ke Taksonomi Bloom akan memperkuat kerangka akademik.
+
+---
+
+### **UAS-4 — My Innovations**
+
+**Deskripsi Singkat**  
+Bagian inovasi berfokus pada penciptaan nilai nyata melalui sistem berbasis data, AI, dan *feedback loop* untuk monitoring, pelaporan, dan pengambilan keputusan iklim yang etis dan realistis.
+
+**Penilaian (Rubrik Konsep):**
+
+| Kriteria | Skor | Alasan Penilaian |
+|--------|------|-----------------|
+| Clarity | **5** | Ide inovasi disampaikan matang dan mudah dipahami. |
+| Logic | **5** | Alur masalah → sistem → nilai → risiko sangat kuat. |
+| Validity | **4** | Konsep teknis masuk akal, meski belum disimulasikan. |
+| Usefulness | **5** | Potensi nilai nyata tinggi bagi organisasi dan pembuat kebijakan. |
+
+**Catatan Pengembangan:**  
+Prototype sederhana atau studi kasus hipotetik akan meningkatkan kredibilitas inovasi.
+
+---
+
+## Rekapitulasi Skor UAS
+
+| UAS | Fokus | Skor Rata-rata |
+|-----|------|----------------|
+| **UAS-1** | My Concepts | **4.5** |
+| **UAS-2** | My Opinions | **4.0** |
+| **UAS-3** | My Knowledge | **4.5** |
+| **UAS-4** | My Innovations | **4.75** |
+
+**Rata-rata Keseluruhan:** **4.4 – Sangat Baik**
+
+---
+
+## **Peer Review UAS**
+
+Berikut adalah hasil *peer review* dari rekan mahasiswa berdasarkan rubrik penilaian UAS-1 hingga UAS-4.
+
+**Tabel Peer Review UAS**: [Excel Peer Review](https://docs.google.com/spreadsheets/d/1J3Jf4sYtjXFjggfb_HfaKh8R0LHpYygJXgpKmqt-LjA/edit?usp=sharing)
+
+## Kesimpulan Akhir
+
+Secara keseluruhan, karya UAS ini menunjukkan kemampuan berpikir:
+
+- **Konseptual** (kerangka berpikir jelas),
+- **Reflektif** (sadar nilai dan sikap),
+- **Aplikatif** (berorientasi aksi dan penciptaan nilai).
+
+Kekuatan utama terletak pada konsistensi tema, logika berpikir, dan kesadaran etis terhadap peran AI dan manusia.  
+Penguatan ke depan dapat difokuskan pada **contoh empiris, visualisasi sistem, dan indikator terukur**, sehingga karya ini siap dikembangkan menjadi **masterpiece profesional** di dunia nyata.
+
