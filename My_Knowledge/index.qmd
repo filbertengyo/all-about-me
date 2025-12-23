@@ -1,7 +1,158 @@
 ## UAS-4 My Knowledge
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+## Definisi Pengetahuan (Personal Understanding)
+
+Bagi saya, **pengetahuan adalah kemampuan untuk menyelesaikan masalah nyata**.  
+Pengetahuan tidak berhenti pada hafalan definisi atau rumus, tetapi baru benar-benar bermakna ketika dapat digunakan untuk menganalisis, mengevaluasi, dan menyelesaikan persoalan yang konkret.
+
+Dalam konteks Cyber Security, pengetahuan berarti memahami:
+
+- bagaimana suatu sistem bekerja,
+- di mana letak kelemahannya,
+- serta bagaimana kelemahan tersebut dapat dimanfaatkan atau diamankan secara bertanggung jawab.
+
+---
+
+## Jenis Pengetahuan yang Paling Relevan bagi Saya
+
+Jenis pengetahuan yang paling saya anggap penting adalah **pengetahuan aplikatif**.
+
+Contohnya:
+
+- menganalisis struktur kode,
+- memahami alur sistem,
+- menentukan jenis serangan atau pendekatan keamanan yang sesuai.
+
+Saya menyadari bahwa pengetahuan yang terlalu mendasar dan terisolasi dari *use case* nyata — misalnya hanya menghafal rumus atau definisi — sering kali membuat saya memahami konsep secara teoritis, tetapi **tidak mampu menggunakannya secara praktis**.
+
+---
+
+## Level Pengetahuan yang Paling Saya Gunakan (Taksonomi Bloom)
+
+Level taksonomi Bloom yang paling sering saya gunakan adalah:
+
+- **Analyze** — mengurai sistem, kode, atau permasalahan untuk menemukan akar masalah.
+- **Evaluate** — menilai solusi yang ada, menentukan apakah pendekatan tertentu efektif, aman, dan relevan.
+
+Saya percaya bahwa kemampuan menganalisis akan secara alami mendorong kemampuan mengevaluasi, karena evaluasi yang baik tidak mungkin dilakukan tanpa analisis yang matang.
+
+---
+
+## Proses Perkembangan Pengetahuan (Learning Progression)
+
+Awalnya, saya hanya memahami dasar-dasar seperti:
+
+- kriptografi,
+- XSS,
+- konsep keamanan web secara umum.
+
+Namun, soal-soal CTF memaksa saya untuk:
+
+- memahami konteks masalah,
+- menerapkan pengetahuan secara kreatif,
+- dan mencari solusi walaupun jalannya tidak selalu lurus.
+
+Dari proses tersebut, saya belajar bahwa **pengetahuan berkembang paling cepat ketika dipaksa menghadapi masalah nyata**.
+
+---
+
+## Pandangan terhadap Pendidikan Formal
+
+Saya merasa bahwa pendidikan formal, khususnya di perkuliahan, sering kali:
+
+- terlalu fokus pada teori dasar,
+- minim *real use case* yang mencerminkan kondisi dunia kerja.
+
+Akibatnya, pembelajaran sering jatuh pada tugas mandiri tanpa pendampingan praktik yang cukup, sehingga mahasiswa harus belajar sendiri untuk menjembatani teori dan realitas.
+
+---
+
+## Cara Saya Menstrukturkan Pengetahuan
+
+Agar pembelajaran lebih terarah, saya biasanya menggunakan:
+
+- roadmap pembelajaran (seperti roadmap.sh),
+- referensi terstruktur lain yang memberikan urutan belajar yang jelas.
+
+Saya percaya bahwa **pengetahuan yang tidak terstruktur berisiko menciptakan kebingungan**, terutama ketika harus diterapkan pada kasus nyata yang kompleks.
+
+---
+
+## Pengetahuan Konseptual vs Pengetahuan Pemecahan Masalah
+
+Menurut saya:
+
+- **Pengetahuan konseptual** penting untuk membangun fondasi.
+- **Pengetahuan pemecahan masalah** jauh lebih relevan untuk dunia kerja karena menekankan *learning by doing*.
+
+Problem-solving knowledge mendorong seseorang untuk:
+
+- belajar dari A sampai Z,
+- mencari informasi yang relevan saat dibutuhkan,
+- dan menyelesaikan masalah secara menyeluruh.
+
+---
+
+## Momen di Mana Pengetahuan Menjadi “Hidup”
+
+Saya benar-benar memahami bagaimana pengetahuan bekerja ketika:
+
+- melakukan debugging,
+- membaca write-up,
+- atau mencoba menyelesaikan soal CTF secara langsung.
+
+Pada titik ini, teori tidak lagi berdiri sendiri, tetapi menyatu dengan praktik.
+
+---
+
+## Pentingnya Learning by Doing
+
+Saya sangat meyakini bahwa **learning by doing adalah praktik terbaik** dalam membangun pengetahuan.
+
+Tanpa praktik:
+
+- sense of problem solving hilang,
+- kemampuan analisis tidak terasah,
+- dan pengetahuan menjadi rapuh.
+
+Sebaliknya, praktik membantu membangun:
+
+- pemahaman pola soal,
+- cara berpikir sistematis,
+- dan insting dalam menghadapi masalah baru.
+
+---
+
+## Gaya Berbagi Pengetahuan Saya
+
+Saya merasa lebih cocok:
+
+- menjelaskan kepada orang lain sambil menyelesaikan masalah nyata,
+- mengajarkan dasar sekaligus *use case*-nya secara langsung.
+
+Dengan cara ini, pengetahuan tidak hanya dipahami oleh saya, tetapi juga diuji kembali melalui penjelasan dan diskusi.
+
+---
+
+## Risiko Pengetahuan yang Tidak Terstruktur
+
+Pengetahuan yang tidak terstruktur berisiko:
+
+- membingungkan saat diterapkan,
+- sulit dikembangkan,
+- dan rentan menghasilkan solusi yang tidak konsisten.
+
+Karena itu, saya memandang struktur sebagai fondasi penting dalam membangun pengetahuan yang kokoh.
+
+---
+
+## Prinsip Pengembangan Pengetahuan ke Depan
+
+Prinsip yang saya pegang:
+
+- terus berlatih secara konsisten,
+- mencoba bidang baru untuk memperluas wawasan,
+- membangun fondasi yang kuat sebelum melangkah lebih jauh.
+
+Bagi saya, **pengetahuan adalah fondasi**, dan **latihan konsisten adalah penguatnya**, agar saya mampu memecahkan masalah secara rinci dan berkelanjutan.
+

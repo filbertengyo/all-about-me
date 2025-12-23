@@ -9,7 +9,7 @@ Halaman ini merangkum konsep-konsep utama yang membentuk cara saya memahami **cy
 
 ---
 
-## 1. Konsep Cyber Security
+## Konsep Cyber Security
 
 Cyber security saya pahami sebagai **ilmu terapan** untuk menjaga produk digital—baik program maupun sistem—dari ancaman keamanan dan privasi yang dapat mengganggu data pribadi maupun keberlangsungan sistem.
 
@@ -21,7 +21,7 @@ Dengan konsep, tools menjadi perpanjangan dari pemahaman.
 
 ---
 
-## 2. Definisi vs Konsep
+## Definisi vs Konsep
 
 Saya membedakan antara *definisi* dan *konsep* sebagai berikut:
 
@@ -32,7 +32,7 @@ Dalam cyber security, memahami *bagaimana dan mengapa* suatu serangan terjadi ja
 
 ---
 
-## 3. Konsep Kekuatan dan Beban
+## Konsep Kekuatan dan Beban
 
 Setiap proses belajar selalu melibatkan dua elemen:
 
@@ -45,7 +45,7 @@ Solusinya bukan menyerah, tetapi **membangun kekuatan secara bertahap**.
 
 ---
 
-## 4. Konsep Fokus dalam Belajar
+## Konsep Fokus dalam Belajar
 
 Cyber security memiliki ruang lingkup yang sangat luas.  
 Tanpa konsep fokus, belajar menjadi melelahkan dan membingungkan.
@@ -61,7 +61,7 @@ Dengan cara ini, otak tidak “kosong” saat menghadapi tantangan nyata.
 
 ---
 
-## 5. Konsep Konsistensi: Lambat tapi Kokoh
+## Konsep Konsistensi: Lambat tapi Kokoh
 
 Saya percaya bahwa **fondasi yang dibangun perlahan namun konsisten** jauh lebih kuat daripada belajar intensif tapi tidak berkelanjutan.
 
@@ -75,7 +75,7 @@ Konsep ini saya terapkan dengan menjadwalkan waktu khusus untuk mengerjakan soal
 
 ---
 
-## 6. Konsep Ide vs Eksekusi
+## Konsep Ide vs Eksekusi
 
 Saya melihat perbedaan jelas antara:
 
@@ -86,7 +86,7 @@ Pengalaman brute force soal CTF tanpa konsep mengajarkan saya bahwa **praktik ta
 
 ---
 
-## 7. Konsep Learning by Doing
+## Konsep Learning by Doing
 
 Learning by doing adalah *best practice* utama saya.
 
@@ -102,7 +102,7 @@ Dengan cara ini, konsep tidak hanya dipahami secara kognitif, tetapi juga tertan
 
 ---
 
-## 8. Konsep Komunikasi sebagai Mesin Koordinasi
+## Konsep Komunikasi sebagai Mesin Koordinasi
 
 Dalam kerja tim, saya sering mengambil peran sebagai **penghubung komunikasi**.
 
@@ -119,7 +119,7 @@ Saya berdiri di tengah tim untuk memastikan:
 
 ---
 
-## 9. Konsep Etika dalam Teknologi
+## Konsep Etika dalam Teknologi
 
 Saya menganggap teknologi yang baik harus memenuhi tiga aspek:
 
@@ -131,7 +131,7 @@ Ketika sebuah produk terlalu profit-driven hingga mengorbankan kualitas atau tra
 
 ---
 
-## 10. Konsep Produktivitas dan Arah Hidup
+## Konsep Produktivitas dan Arah Hidup
 
 Saya menyadari bahwa tanpa rutinitas dan konsep produktivitas, seseorang mudah terjebak dalam kemalasan dan kehilangan arah.
 

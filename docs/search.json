@@ -263,8 +263,8 @@
     "objectID": "My_Concepts/index.html#konsep-cyber-security",
     "href": "My_Concepts/index.html#konsep-cyber-security",
     "title": "6  UAS-1 My Concepts",
-    "section": "6.2 1. Konsep Cyber Security",
-    "text": "6.2 1. Konsep Cyber Security\nCyber security saya pahami sebagai ilmu terapan untuk menjaga produk digital—baik program maupun sistem—dari ancaman keamanan dan privasi yang dapat mengganggu data pribadi maupun keberlangsungan sistem.\nNamun, di balik praktik teknis seperti tools, exploit, atau konfigurasi, terdapat konsep inti:\npengetahuan fundamental dan analisis masalah yang memicu penggunaan tools tersebut.\nTanpa konsep, tools hanya menjadi alat coba-coba.\nDengan konsep, tools menjadi perpanjangan dari pemahaman.",
+    "section": "6.2 Konsep Cyber Security",
+    "text": "6.2 Konsep Cyber Security\nCyber security saya pahami sebagai ilmu terapan untuk menjaga produk digital—baik program maupun sistem—dari ancaman keamanan dan privasi yang dapat mengganggu data pribadi maupun keberlangsungan sistem.\nNamun, di balik praktik teknis seperti tools, exploit, atau konfigurasi, terdapat konsep inti:\npengetahuan fundamental dan analisis masalah yang memicu penggunaan tools tersebut.\nTanpa konsep, tools hanya menjadi alat coba-coba.\nDengan konsep, tools menjadi perpanjangan dari pemahaman.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
@@ -273,8 +273,8 @@
     "objectID": "My_Concepts/index.html#definisi-vs-konsep",
     "href": "My_Concepts/index.html#definisi-vs-konsep",
     "title": "6  UAS-1 My Concepts",
-    "section": "6.3 2. Definisi vs Konsep",
-    "text": "6.3 2. Definisi vs Konsep\nSaya membedakan antara definisi dan konsep sebagai berikut:\n\nDefinisi menjawab “What” — apa itu sesuatu.\nKonsep menjawab 5W+1H — mengapa, untuk apa, bagaimana, kapan, di mana, dan oleh siapa sesuatu digunakan.\n\nDalam cyber security, memahami bagaimana dan mengapa suatu serangan terjadi jauh lebih penting daripada sekadar tahu apa nama serangannya.",
+    "section": "6.3 Definisi vs Konsep",
+    "text": "6.3 Definisi vs Konsep\nSaya membedakan antara definisi dan konsep sebagai berikut:\n\nDefinisi menjawab “What” — apa itu sesuatu.\nKonsep menjawab 5W+1H — mengapa, untuk apa, bagaimana, kapan, di mana, dan oleh siapa sesuatu digunakan.\n\nDalam cyber security, memahami bagaimana dan mengapa suatu serangan terjadi jauh lebih penting daripada sekadar tahu apa nama serangannya.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
@@ -283,8 +283,8 @@
     "objectID": "My_Concepts/index.html#konsep-kekuatan-dan-beban",
     "href": "My_Concepts/index.html#konsep-kekuatan-dan-beban",
     "title": "6  UAS-1 My Concepts",
-    "section": "6.4 3. Konsep Kekuatan dan Beban",
-    "text": "6.4 3. Konsep Kekuatan dan Beban\nSetiap proses belajar selalu melibatkan dua elemen:\n\nKekuatan (K): pengetahuan yang dikumpulkan melalui latihan, analisis soal, dan membaca write-up.\nBeban (B): tantangan baru, seperti mempelajari bidang lain dalam cyber security atau menghadapi soal yang belum pernah ditemui.\n\nKegagalan CTF pertama saya menjadi contoh nyata:\nbeban terlalu berat karena kekuatan belum cukup.\nSolusinya bukan menyerah, tetapi membangun kekuatan secara bertahap.",
+    "section": "6.4 Konsep Kekuatan dan Beban",
+    "text": "6.4 Konsep Kekuatan dan Beban\nSetiap proses belajar selalu melibatkan dua elemen:\n\nKekuatan (K): pengetahuan yang dikumpulkan melalui latihan, analisis soal, dan membaca write-up.\nBeban (B): tantangan baru, seperti mempelajari bidang lain dalam cyber security atau menghadapi soal yang belum pernah ditemui.\n\nKegagalan CTF pertama saya menjadi contoh nyata:\nbeban terlalu berat karena kekuatan belum cukup.\nSolusinya bukan menyerah, tetapi membangun kekuatan secara bertahap.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
@@ -293,8 +293,8 @@
     "objectID": "My_Concepts/index.html#konsep-fokus-dalam-belajar",
     "href": "My_Concepts/index.html#konsep-fokus-dalam-belajar",
     "title": "6  UAS-1 My Concepts",
-    "section": "6.5 4. Konsep Fokus dalam Belajar",
-    "text": "6.5 4. Konsep Fokus dalam Belajar\nCyber security memiliki ruang lingkup yang sangat luas.\nTanpa konsep fokus, belajar menjadi melelahkan dan membingungkan.\nKonsep yang saya pegang:\n\nTentukan 1–2 bidang yang menarik (misalnya web exploitation, cryptography, OSINT).\nPelajari fundamentalnya terlebih dahulu, tidak harus langsung mendalam.\nGabungkan belajar dengan praktik nyata melalui soal CTF atau kasus sederhana.\nBangun konsistensi sebelum memperluas cakupan.\n\nDengan cara ini, otak tidak “kosong” saat menghadapi tantangan nyata.",
+    "section": "6.5 Konsep Fokus dalam Belajar",
+    "text": "6.5 Konsep Fokus dalam Belajar\nCyber security memiliki ruang lingkup yang sangat luas.\nTanpa konsep fokus, belajar menjadi melelahkan dan membingungkan.\nKonsep yang saya pegang:\n\nTentukan 1–2 bidang yang menarik (misalnya web exploitation, cryptography, OSINT).\nPelajari fundamentalnya terlebih dahulu, tidak harus langsung mendalam.\nGabungkan belajar dengan praktik nyata melalui soal CTF atau kasus sederhana.\nBangun konsistensi sebelum memperluas cakupan.\n\nDengan cara ini, otak tidak “kosong” saat menghadapi tantangan nyata.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
@@ -303,8 +303,8 @@
     "objectID": "My_Concepts/index.html#konsep-konsistensi-lambat-tapi-kokoh",
     "href": "My_Concepts/index.html#konsep-konsistensi-lambat-tapi-kokoh",
     "title": "6  UAS-1 My Concepts",
-    "section": "6.6 5. Konsep Konsistensi: Lambat tapi Kokoh",
-    "text": "6.6 5. Konsep Konsistensi: Lambat tapi Kokoh\nSaya percaya bahwa fondasi yang dibangun perlahan namun konsisten jauh lebih kuat daripada belajar intensif tapi tidak berkelanjutan.\nPrinsip saya:\n\nSedikit setiap hari lebih baik daripada banyak tapi jarang.\nKonsistensi membentuk insting.\nInsting lahir dari pengulangan yang sadar.\n\nKonsep ini saya terapkan dengan menjadwalkan waktu khusus untuk mengerjakan soal atau membaca write-up, tanpa menuntut hasil instan.",
+    "section": "6.6 Konsep Konsistensi: Lambat tapi Kokoh",
+    "text": "6.6 Konsep Konsistensi: Lambat tapi Kokoh\nSaya percaya bahwa fondasi yang dibangun perlahan namun konsisten jauh lebih kuat daripada belajar intensif tapi tidak berkelanjutan.\nPrinsip saya:\n\nSedikit setiap hari lebih baik daripada banyak tapi jarang.\nKonsistensi membentuk insting.\nInsting lahir dari pengulangan yang sadar.\n\nKonsep ini saya terapkan dengan menjadwalkan waktu khusus untuk mengerjakan soal atau membaca write-up, tanpa menuntut hasil instan.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
@@ -313,8 +313,8 @@
     "objectID": "My_Concepts/index.html#konsep-ide-vs-eksekusi",
     "href": "My_Concepts/index.html#konsep-ide-vs-eksekusi",
     "title": "6  UAS-1 My Concepts",
-    "section": "6.7 6. Konsep Ide vs Eksekusi",
-    "text": "6.7 6. Konsep Ide vs Eksekusi\nSaya melihat perbedaan jelas antara:\n\nOrang yang mengoleksi ide: punya banyak gagasan, tetapi belum tentu dieksekusi.\nOrang yang memiliki konsep: mampu mengeksekusi ide karena tahu arah, batasan, dan pertimbangannya.\n\nPengalaman brute force soal CTF tanpa konsep mengajarkan saya bahwa praktik tanpa konsep hanya membuang energi.",
+    "section": "6.7 Konsep Ide vs Eksekusi",
+    "text": "6.7 Konsep Ide vs Eksekusi\nSaya melihat perbedaan jelas antara:\n\nOrang yang mengoleksi ide: punya banyak gagasan, tetapi belum tentu dieksekusi.\nOrang yang memiliki konsep: mampu mengeksekusi ide karena tahu arah, batasan, dan pertimbangannya.\n\nPengalaman brute force soal CTF tanpa konsep mengajarkan saya bahwa praktik tanpa konsep hanya membuang energi.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
@@ -323,8 +323,8 @@
     "objectID": "My_Concepts/index.html#konsep-learning-by-doing",
     "href": "My_Concepts/index.html#konsep-learning-by-doing",
     "title": "6  UAS-1 My Concepts",
-    "section": "6.8 7. Konsep Learning by Doing",
-    "text": "6.8 7. Konsep Learning by Doing\nLearning by doing adalah best practice utama saya.\nSaya memahami sesuatu ketika:\n\nSaya mencoba langsung,\ngagal,\nmenganalisis kegagalan,\nmembaca write-up,\nlalu mencoba kembali.\n\nDengan cara ini, konsep tidak hanya dipahami secara kognitif, tetapi juga tertanam sebagai pola berpikir.",
+    "section": "6.8 Konsep Learning by Doing",
+    "text": "6.8 Konsep Learning by Doing\nLearning by doing adalah best practice utama saya.\nSaya memahami sesuatu ketika:\n\nSaya mencoba langsung,\ngagal,\nmenganalisis kegagalan,\nmembaca write-up,\nlalu mencoba kembali.\n\nDengan cara ini, konsep tidak hanya dipahami secara kognitif, tetapi juga tertanam sebagai pola berpikir.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
@@ -333,8 +333,8 @@
     "objectID": "My_Concepts/index.html#konsep-komunikasi-sebagai-mesin-koordinasi",
     "href": "My_Concepts/index.html#konsep-komunikasi-sebagai-mesin-koordinasi",
     "title": "6  UAS-1 My Concepts",
-    "section": "6.9 8. Konsep Komunikasi sebagai Mesin Koordinasi",
-    "text": "6.9 8. Konsep Komunikasi sebagai Mesin Koordinasi\nDalam kerja tim, saya sering mengambil peran sebagai penghubung komunikasi.\nKonsepnya sederhana:\n\nKoordinasi yang buruk adalah beban besar.\nKomunikasi yang jelas adalah kekuatan kolektif.\n\nSaya berdiri di tengah tim untuk memastikan:\n\npembagian tugas jelas,\nstatus pekerjaan terpantau,\nsetiap anggota merasa aman untuk bertanya dan tidak tertinggal.",
+    "section": "6.9 Konsep Komunikasi sebagai Mesin Koordinasi",
+    "text": "6.9 Konsep Komunikasi sebagai Mesin Koordinasi\nDalam kerja tim, saya sering mengambil peran sebagai penghubung komunikasi.\nKonsepnya sederhana:\n\nKoordinasi yang buruk adalah beban besar.\nKomunikasi yang jelas adalah kekuatan kolektif.\n\nSaya berdiri di tengah tim untuk memastikan:\n\npembagian tugas jelas,\nstatus pekerjaan terpantau,\nsetiap anggota merasa aman untuk bertanya dan tidak tertinggal.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
@@ -343,8 +343,8 @@
     "objectID": "My_Concepts/index.html#konsep-etika-dalam-teknologi",
     "href": "My_Concepts/index.html#konsep-etika-dalam-teknologi",
     "title": "6  UAS-1 My Concepts",
-    "section": "6.10 9. Konsep Etika dalam Teknologi",
-    "text": "6.10 9. Konsep Etika dalam Teknologi\nSaya menganggap teknologi yang baik harus memenuhi tiga aspek:\n\nPengalaman pengguna yang masuk akal\nKesejahteraan developer\nModel bisnis yang etis dan rasional\n\nKetika sebuah produk terlalu profit-driven hingga mengorbankan kualitas atau transparansi, itu menjadi tanda bahwa konsepnya lemah—meskipun teknologinya canggih.",
+    "section": "6.10 Konsep Etika dalam Teknologi",
+    "text": "6.10 Konsep Etika dalam Teknologi\nSaya menganggap teknologi yang baik harus memenuhi tiga aspek:\n\nPengalaman pengguna yang masuk akal\nKesejahteraan developer\nModel bisnis yang etis dan rasional\n\nKetika sebuah produk terlalu profit-driven hingga mengorbankan kualitas atau transparansi, itu menjadi tanda bahwa konsepnya lemah—meskipun teknologinya canggih.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
@@ -353,8 +353,8 @@
     "objectID": "My_Concepts/index.html#konsep-produktivitas-dan-arah-hidup",
     "href": "My_Concepts/index.html#konsep-produktivitas-dan-arah-hidup",
     "title": "6  UAS-1 My Concepts",
-    "section": "6.11 10. Konsep Produktivitas dan Arah Hidup",
-    "text": "6.11 10. Konsep Produktivitas dan Arah Hidup\nSaya menyadari bahwa tanpa rutinitas dan konsep produktivitas, seseorang mudah terjebak dalam kemalasan dan kehilangan arah.\nKonsep yang saya pegang: &gt; Sadar akan pentingnya produktivitas, lalu mengeksekusinya melalui latihan nyata secara perlahan namun konsisten.\nBeban yang ingin saya angkat adalah rasa ketidaktahuan dan stagnasi.\nKekuatan yang saya bangun adalah pengetahuan yang hidup melalui praktik.",
+    "section": "6.11 Konsep Produktivitas dan Arah Hidup",
+    "text": "6.11 Konsep Produktivitas dan Arah Hidup\nSaya menyadari bahwa tanpa rutinitas dan konsep produktivitas, seseorang mudah terjebak dalam kemalasan dan kehilangan arah.\nKonsep yang saya pegang: &gt; Sadar akan pentingnya produktivitas, lalu mengeksekusinya melalui latihan nyata secara perlahan namun konsisten.\nBeban yang ingin saya angkat adalah rasa ketidaktahuan dan stagnasi.\nKekuatan yang saya bangun adalah pengetahuan yang hidup melalui praktik.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>UAS-1 My Concepts</span>"
     ]
@@ -454,7 +454,127 @@
     "href": "My_Knowledge/index.html",
     "title": "9  UAS-4 My Knowledge",
     "section": "",
-    "text": "Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain 1) saya tulis makalah sebagai bahan utama 2) lalu saya buat transkrip ucapan lisan 3) kemudian saya kembangkan slide pendukung trnsskrip 4) lalu saya memproduksivideo audio visual",
+    "text": "9.1 Definisi Pengetahuan (Personal Understanding)\nBagi saya, pengetahuan adalah kemampuan untuk menyelesaikan masalah nyata.\nPengetahuan tidak berhenti pada hafalan definisi atau rumus, tetapi baru benar-benar bermakna ketika dapat digunakan untuk menganalisis, mengevaluasi, dan menyelesaikan persoalan yang konkret.\nDalam konteks Cyber Security, pengetahuan berarti memahami:",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html#definisi-pengetahuan-personal-understanding",
+    "href": "My_Knowledge/index.html#definisi-pengetahuan-personal-understanding",
+    "title": "9  UAS-4 My Knowledge",
+    "section": "",
+    "text": "bagaimana suatu sistem bekerja,\ndi mana letak kelemahannya,\nserta bagaimana kelemahan tersebut dapat dimanfaatkan atau diamankan secara bertanggung jawab.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html#jenis-pengetahuan-yang-paling-relevan-bagi-saya",
+    "href": "My_Knowledge/index.html#jenis-pengetahuan-yang-paling-relevan-bagi-saya",
+    "title": "9  UAS-4 My Knowledge",
+    "section": "9.2 Jenis Pengetahuan yang Paling Relevan bagi Saya",
+    "text": "9.2 Jenis Pengetahuan yang Paling Relevan bagi Saya\nJenis pengetahuan yang paling saya anggap penting adalah pengetahuan aplikatif.\nContohnya:\n\nmenganalisis struktur kode,\nmemahami alur sistem,\nmenentukan jenis serangan atau pendekatan keamanan yang sesuai.\n\nSaya menyadari bahwa pengetahuan yang terlalu mendasar dan terisolasi dari use case nyata — misalnya hanya menghafal rumus atau definisi — sering kali membuat saya memahami konsep secara teoritis, tetapi tidak mampu menggunakannya secara praktis.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html#level-pengetahuan-yang-paling-saya-gunakan-taksonomi-bloom",
+    "href": "My_Knowledge/index.html#level-pengetahuan-yang-paling-saya-gunakan-taksonomi-bloom",
+    "title": "9  UAS-4 My Knowledge",
+    "section": "9.3 Level Pengetahuan yang Paling Saya Gunakan (Taksonomi Bloom)",
+    "text": "9.3 Level Pengetahuan yang Paling Saya Gunakan (Taksonomi Bloom)\nLevel taksonomi Bloom yang paling sering saya gunakan adalah:\n\nAnalyze — mengurai sistem, kode, atau permasalahan untuk menemukan akar masalah.\nEvaluate — menilai solusi yang ada, menentukan apakah pendekatan tertentu efektif, aman, dan relevan.\n\nSaya percaya bahwa kemampuan menganalisis akan secara alami mendorong kemampuan mengevaluasi, karena evaluasi yang baik tidak mungkin dilakukan tanpa analisis yang matang.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html#proses-perkembangan-pengetahuan-learning-progression",
+    "href": "My_Knowledge/index.html#proses-perkembangan-pengetahuan-learning-progression",
+    "title": "9  UAS-4 My Knowledge",
+    "section": "9.4 Proses Perkembangan Pengetahuan (Learning Progression)",
+    "text": "9.4 Proses Perkembangan Pengetahuan (Learning Progression)\nAwalnya, saya hanya memahami dasar-dasar seperti:\n\nkriptografi,\nXSS,\nkonsep keamanan web secara umum.\n\nNamun, soal-soal CTF memaksa saya untuk:\n\nmemahami konteks masalah,\nmenerapkan pengetahuan secara kreatif,\ndan mencari solusi walaupun jalannya tidak selalu lurus.\n\nDari proses tersebut, saya belajar bahwa pengetahuan berkembang paling cepat ketika dipaksa menghadapi masalah nyata.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html#pandangan-terhadap-pendidikan-formal",
+    "href": "My_Knowledge/index.html#pandangan-terhadap-pendidikan-formal",
+    "title": "9  UAS-4 My Knowledge",
+    "section": "9.5 Pandangan terhadap Pendidikan Formal",
+    "text": "9.5 Pandangan terhadap Pendidikan Formal\nSaya merasa bahwa pendidikan formal, khususnya di perkuliahan, sering kali:\n\nterlalu fokus pada teori dasar,\nminim real use case yang mencerminkan kondisi dunia kerja.\n\nAkibatnya, pembelajaran sering jatuh pada tugas mandiri tanpa pendampingan praktik yang cukup, sehingga mahasiswa harus belajar sendiri untuk menjembatani teori dan realitas.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html#cara-saya-menstrukturkan-pengetahuan",
+    "href": "My_Knowledge/index.html#cara-saya-menstrukturkan-pengetahuan",
+    "title": "9  UAS-4 My Knowledge",
+    "section": "9.6 Cara Saya Menstrukturkan Pengetahuan",
+    "text": "9.6 Cara Saya Menstrukturkan Pengetahuan\nAgar pembelajaran lebih terarah, saya biasanya menggunakan:\n\nroadmap pembelajaran (seperti roadmap.sh),\nreferensi terstruktur lain yang memberikan urutan belajar yang jelas.\n\nSaya percaya bahwa pengetahuan yang tidak terstruktur berisiko menciptakan kebingungan, terutama ketika harus diterapkan pada kasus nyata yang kompleks.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html#pengetahuan-konseptual-vs-pengetahuan-pemecahan-masalah",
+    "href": "My_Knowledge/index.html#pengetahuan-konseptual-vs-pengetahuan-pemecahan-masalah",
+    "title": "9  UAS-4 My Knowledge",
+    "section": "9.7 Pengetahuan Konseptual vs Pengetahuan Pemecahan Masalah",
+    "text": "9.7 Pengetahuan Konseptual vs Pengetahuan Pemecahan Masalah\nMenurut saya:\n\nPengetahuan konseptual penting untuk membangun fondasi.\nPengetahuan pemecahan masalah jauh lebih relevan untuk dunia kerja karena menekankan learning by doing.\n\nProblem-solving knowledge mendorong seseorang untuk:\n\nbelajar dari A sampai Z,\nmencari informasi yang relevan saat dibutuhkan,\ndan menyelesaikan masalah secara menyeluruh.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html#momen-di-mana-pengetahuan-menjadi-hidup",
+    "href": "My_Knowledge/index.html#momen-di-mana-pengetahuan-menjadi-hidup",
+    "title": "9  UAS-4 My Knowledge",
+    "section": "9.8 Momen di Mana Pengetahuan Menjadi “Hidup”",
+    "text": "9.8 Momen di Mana Pengetahuan Menjadi “Hidup”\nSaya benar-benar memahami bagaimana pengetahuan bekerja ketika:\n\nmelakukan debugging,\nmembaca write-up,\natau mencoba menyelesaikan soal CTF secara langsung.\n\nPada titik ini, teori tidak lagi berdiri sendiri, tetapi menyatu dengan praktik.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html#pentingnya-learning-by-doing",
+    "href": "My_Knowledge/index.html#pentingnya-learning-by-doing",
+    "title": "9  UAS-4 My Knowledge",
+    "section": "9.9 Pentingnya Learning by Doing",
+    "text": "9.9 Pentingnya Learning by Doing\nSaya sangat meyakini bahwa learning by doing adalah praktik terbaik dalam membangun pengetahuan.\nTanpa praktik:\n\nsense of problem solving hilang,\nkemampuan analisis tidak terasah,\ndan pengetahuan menjadi rapuh.\n\nSebaliknya, praktik membantu membangun:\n\npemahaman pola soal,\ncara berpikir sistematis,\ndan insting dalam menghadapi masalah baru.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html#gaya-berbagi-pengetahuan-saya",
+    "href": "My_Knowledge/index.html#gaya-berbagi-pengetahuan-saya",
+    "title": "9  UAS-4 My Knowledge",
+    "section": "9.10 Gaya Berbagi Pengetahuan Saya",
+    "text": "9.10 Gaya Berbagi Pengetahuan Saya\nSaya merasa lebih cocok:\n\nmenjelaskan kepada orang lain sambil menyelesaikan masalah nyata,\nmengajarkan dasar sekaligus use case-nya secara langsung.\n\nDengan cara ini, pengetahuan tidak hanya dipahami oleh saya, tetapi juga diuji kembali melalui penjelasan dan diskusi.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html#risiko-pengetahuan-yang-tidak-terstruktur",
+    "href": "My_Knowledge/index.html#risiko-pengetahuan-yang-tidak-terstruktur",
+    "title": "9  UAS-4 My Knowledge",
+    "section": "9.11 Risiko Pengetahuan yang Tidak Terstruktur",
+    "text": "9.11 Risiko Pengetahuan yang Tidak Terstruktur\nPengetahuan yang tidak terstruktur berisiko:\n\nmembingungkan saat diterapkan,\nsulit dikembangkan,\ndan rentan menghasilkan solusi yang tidak konsisten.\n\nKarena itu, saya memandang struktur sebagai fondasi penting dalam membangun pengetahuan yang kokoh.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Knowledge/index.html#prinsip-pengembangan-pengetahuan-ke-depan",
+    "href": "My_Knowledge/index.html#prinsip-pengembangan-pengetahuan-ke-depan",
+    "title": "9  UAS-4 My Knowledge",
+    "section": "9.12 Prinsip Pengembangan Pengetahuan ke Depan",
+    "text": "9.12 Prinsip Pengembangan Pengetahuan ke Depan\nPrinsip yang saya pegang:\n\nterus berlatih secara konsisten,\nmencoba bidang baru untuk memperluas wawasan,\nmembangun fondasi yang kuat sebelum melangkah lebih jauh.\n\nBagi saya, pengetahuan adalah fondasi, dan latihan konsisten adalah penguatnya, agar saya mampu memecahkan masalah secara rinci dan berkelanjutan.",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
     ]
